@@ -1,0 +1,793 @@
+    <!DOCTYPE html>
+    <html lang="fr-FR">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
+
+                    <link rel="stylesheet" href="../assets/shop/css/layout-1/theme-2.css?v=1.11.2"/>
+        
+        <link rel="canonical" href="conditions-generales-de-vente"/>
+
+                
+            
+<title>Conditions générales de vente | Maison Moraud</title>
+<meta name="description" content="Votre artisan boucher de la boucherie Maison Moraud à Lyon vous propose d'acheter en ligne ses produits : viande, charcuterie, produits traiteurs. C'est simple et rapide; Surtout, nos produits sont de qualités." />
+
+    <!-- Schema.org markup for Google+ -->
+    <meta itemprop="name" content="Conditions générales de vente | Maison Moraud">
+    <meta itemprop="description" content="Votre artisan boucher de la boucherie Maison Moraud à Lyon vous propose d'acheter en ligne ses produits : viande, charcuterie, produits traiteurs. C'est simple et rapide; Surtout, nos produits sont de qualités.">
+    <meta itemprop="image" content="https://maisonmoraud-lyon7.weboucherie.fr/uploads/shop/shop/4/5db1616a36e90.jpg">
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:title" content="Conditions générales de vente | Maison Moraud">
+    <meta name="twitter:description" content="Votre artisan boucher de la boucherie Maison Moraud à Lyon vous propose d'acheter en ligne ses produits : viande, charcuterie, produits traiteurs. C'est simple et rapide; Surtout, nos produits sont de qualités.">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="Maison Moraud">
+    <meta name="twitter:image:src" content="https://maisonmoraud-lyon7.weboucherie.fr/uploads/shop/shop/4/5db1616a36e90.jpg">
+
+    <!-- Open Graph data -->
+    <meta property="og:title" content="Conditions générales de vente | Maison Moraud" />
+    <meta property="og:description" content="Votre artisan boucher de la boucherie Maison Moraud à Lyon vous propose d'acheter en ligne ses produits : viande, charcuterie, produits traiteurs. C'est simple et rapide; Surtout, nos produits sont de qualités." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://maisonmoraud-lyon7.weboucherie.fr/page/conditions-generales-de-vente" />
+    <meta property="og:image" content="https://maisonmoraud-lyon7.weboucherie.fr/uploads/shop/shop/4/5db1616a36e90.jpg" />
+    <meta property="og:site_name" content="Maison Moraud" />
+
+
+        
+
+                    <script>
+                (function (i, s, o, g, r, a, m) {
+                    i['GoogleAnalyticsObject'] = r;
+                    i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date();
+                    a = s.createElement(o),
+                        m = s.getElementsByTagName(o)[0];
+                    a.async = 1;
+                    a.src = g;
+                    m.parentNode.insertBefore(a, m)
+                })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+                ga('create', 'UA-92531684-1', 'weboucherie.fr');
+                ga('require', 'displayfeatures');
+                ga('set', 'anonymizeIp', true);
+                ga('send', 'pageview');
+                ga('create', 'UA-92532465-1', 'weboucherie.fr', {'name': 'ProprieteBO'});
+                ga('ProprieteBO.require', 'displayfeatures');
+                ga('ProprieteBO.send', 'pageview');
+            </script>
+        
+        
+                <script>
+            !function (f, b, e, v, n, t, s) {
+                if (f.fbq) return;
+                n = f.fbq = function () {
+                    n.callMethod ?
+                        n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+                };
+                if (!f._fbq) f._fbq = n;
+                n.push = n;
+                n.loaded = !0;
+                n.version = '2.0';
+                n.queue = [];
+                t = b.createElement(e);
+                t.async = !0;
+                t.src = v;
+                s = b.getElementsByTagName(e)[0];
+                s.parentNode.insertBefore(t, s)
+            }(window,
+                document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+            fbq('init', '168834733957499');
+            fbq('track', 'PageView');
+        </script>
+        <noscript>
+            <img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=FB_PIXEL_ID&amp;ev=PageView&amp;noscript=1"/></noscript>
+    </head>
+
+    <body>
+    <div class="CookieBar js-cookie-bar">
+    <div class="Wrapper">
+        <p class="CookieBar_text">
+            En poursuivant votre navigation sur ce site, vous acceptez l'installation et l'utilisation de cookies permettant d’améliorer votre expérience utilisateur.
+            <a target="_blank" class="CookieBar_more" href="politique-vie-privee-et-cookies">En savoir plus</a>
+            <button class="CookieBar_ok js-cookie-bar-accept" type="button">
+                OK
+            </button>
+        </p>
+    </div>
+</div>
+    
+    
+
+            <header class="Header">
+    <div class="Header_firstLine">
+        <div class="Header_firstTable Wrapper js-mobileHeader">
+                            <div class="Header_mainTitle TextLogo">
+                    <a href="../logout?subdomain=maisonmoraud-lyon7" title="Maison Moraud : votre artisan boucher indépendant est sur internet">
+                        <img src="../uploads/shop/shop/4/58e4e0734e48e.png" alt="Maison Moraud"/>
+Maison Moraud
+                    </a>
+                </div>
+            
+            <div class="Header_rightMenu ">
+
+                <div class="Header_userControls">
+                    <div class="Header_userControlsContainer">
+                        <a class="Button Header_shopLink" href="../magasin">Le magasin</a>
+                        <a class="Button Button-background Button-logOut" href="../logout?subdomain=maisonmoraud-lyon7"></a>
+                        <a class="Button Button-background Button-account" href="../mon-compte">
+                                                            Connectez-vous
+                                                    </a>
+
+                        <div class="Header_basketContainer js-basket">
+                                                            <a class="Button HeaderBasket_trigger" href="../panier">
+    Panier
+    </a>
+
+<div class="HeaderBasket">
+
+            <p class="align-center">
+            Votre panier est vide
+        </p>
+    
+    <div class="Loader"></div>
+</div>
+
+                                                    </div>
+                        <div class="Header_burgerMenu mobile-only js-burgerMenuOpen"><i class="Icon Icon-burgerWhite"></i></div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <nav class="HeaderNav js-burgerMenu">
+        <div class="Nav_closeBurger mobile-only js-burgerMenuClose"><i class="Icon Icon-closeRed"></i></div>
+
+        <div class="Header_firstTable Wrapper">
+                                
+        
+                                                                
+                                    
+        <ul     class="Nav_categories Nav_categories-noSelected">
+                                                                
+                                                            <li     class="Nav_category first">                <a href="../categorie/viandes"     class="Nav_link">Viandes</a>                                    
+        
+                                                                        
+                
+        <ul     class="Nav_subCategories menu_level_1">
+                                                                
+                                        <li     class="Nav_subCategory first">                <a href="../categorie/viandes/agneau"     class="Nav_subCategoryLink">Agneau</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="../categorie/viandes/boeuf"     class="Nav_subCategoryLink">Boeuf</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="../categorie/viandes/porc"     class="Nav_subCategoryLink">Porc</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="../categorie/viandes/veau"     class="Nav_subCategoryLink">Veau</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="../categorie/viandes/plateaux-et-viandes-crues"     class="Nav_subCategoryLink">Plateaux et viandes crues</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="../categorie/viandes/nos-viandes-marinees"     class="Nav_subCategoryLink">Nos viandes marinées</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="../categorie/viandes/specialites-boucheres-crues"     class="Nav_subCategoryLink">Spécialités Bouchères crues</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory last">                <a href="../categorie/viandes/barbecue"     class="Nav_subCategoryLink">Barbecue</a>                            
+        </li>
+    
+                
+        </ul>
+    
+        </li>
+    
+                        
+                                                            <li     class="Nav_category">                <a href="../categorie/volailles"     class="Nav_link">Volailles</a>                                    
+        
+                        
+                
+        <ul     class="Nav_subCategories menu_level_1">
+                                                                
+                                        <li     class="Nav_subCategory first">                <a href="../categorie/volailles/decoupes-de-volailles"     class="Nav_subCategoryLink">Découpes de volailles</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory last">                <a href="../categorie/volailles/volailles-entieres"     class="Nav_subCategoryLink">Volailles entières</a>                            
+        </li>
+    
+                
+        </ul>
+    
+        </li>
+    
+                        
+                                                            <li     class="Nav_category">                <a href="../categorie/charcuterie"     class="Nav_link">Charcuterie</a>                                    
+        
+                                                                
+                
+        <ul     class="Nav_subCategories menu_level_1">
+                                                                
+                                        <li     class="Nav_subCategory first">                <a href="../categorie/charcuterie/charcuterie-a-la-coupe"     class="Nav_subCategoryLink">Charcuterie à la coupe</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="../categorie/charcuterie/jambons"     class="Nav_subCategoryLink">Jambons</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="../categorie/charcuterie/saucissons-secs"     class="Nav_subCategoryLink">Saucissons secs</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="../categorie/charcuterie/terrines-et-pates-croute"     class="Nav_subCategoryLink">Terrines et pâtés croûte</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="../categorie/charcuterie/saucisses-et-boudins"     class="Nav_subCategoryLink">Saucisses et boudins</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="../categorie/charcuterie/specialites-lyonnaises"     class="Nav_subCategoryLink">Spécialités Lyonnaises</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory last">                <a href="../categorie/charcuterie/charcuterie-diverse"     class="Nav_subCategoryLink">Charcuterie diverse</a>                            
+        </li>
+    
+                
+        </ul>
+    
+        </li>
+    
+                        
+                                                            <li     class="Nav_category">                <a href="../categorie/traiteur"     class="Nav_link">Traiteur</a>                                    
+        
+                                                        
+                
+        <ul     class="Nav_subCategories menu_level_1">
+                                                                
+                                        <li     class="Nav_subCategory first">                <a href="../categorie/traiteur/aperitif-dinatoire"     class="Nav_subCategoryLink">Apéritif dinatoire</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="../categorie/traiteur/entrees"     class="Nav_subCategoryLink">Entrées</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="../categorie/traiteur/salades"     class="Nav_subCategoryLink">Salades</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="../categorie/traiteur/plats-cuisines"     class="Nav_subCategoryLink">Plats cuisinés</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="../categorie/traiteur/accompagnements"     class="Nav_subCategoryLink">Accompagnements</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory last">                <a href="../categorie/traiteur/choucroute"     class="Nav_subCategoryLink">Choucroute</a>                            
+        </li>
+    
+                
+        </ul>
+    
+        </li>
+    
+                        
+                                        <li     class="Nav_category">                <a href="../categorie/viandes-maturees"     class="Nav_link">Viandes maturées</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_category">                <a href="../categorie/nos-colis"     class="Nav_link">Nos Colis</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_category FontHighlighted last">                <a href="../categorie/cest-la-rentree"     class="Nav_link">C’EST LA RENTREE !</a>                            
+        </li>
+    
+                
+        </ul>
+    
+            
+<div class="HeaderNav_search">
+    <form method="GET" class="SearchBar js-search-autocomplete" data-url="https://maisonmoraud-lyon7.weboucherie.fr/recherche/auto-completion" action="../recherche">
+        <div class="SearchBar_submit">
+            <input class="SearchBar_submitInput" value="" type="submit">
+        </div>
+        <input class="SearchBar_input js-search-input" name="q" type="text" placeholder="" autocomplete="off">
+        <div class="SearchBar_results js-search-results">
+            <div class="SearchBar_results-loading">Chargement des suggestions...</div>
+
+            <ul class="SearchBar_autoCompleteContainer js-search-resultList">
+            </ul>
+        </div>
+    </form>
+</div>
+        </div>
+
+        <div class="Nav_userControls mobile-only ">
+            <a class="Button Header_shopLink" href="../magasin">Le magasin</a>
+            <a class="Button Button-background Button-logOut" href="../logout?subdomain=maisonmoraud-lyon7"></a>
+            <a class="Button Button-background Button-account" href="../mon-compte">
+                                    Connectez-vous
+                            </a>
+        </div>
+    </nav>
+
+    <div class="HeaderNav_search-mobile mobile-only">
+        
+<div class="HeaderNav_search">
+    <form method="GET" class="SearchBar js-search-autocomplete" data-url="https://maisonmoraud-lyon7.weboucherie.fr/recherche/auto-completion" action="../recherche">
+        <div class="SearchBar_submit">
+            <input class="SearchBar_submitInput" value="" type="submit">
+        </div>
+        <input class="SearchBar_input js-search-input" name="q" type="text" placeholder="Rechercher" autocomplete="off">
+        <div class="SearchBar_results js-search-results">
+            <div class="SearchBar_results-loading">Chargement des suggestions...</div>
+
+            <ul class="SearchBar_autoCompleteContainer js-search-resultList">
+            </ul>
+        </div>
+    </form>
+</div>
+    </div>
+
+    </header>
+    
+        <div class="HeaderSubContent HeaderSubContent-empty HeaderSubContent-secondary">
+        <div class="Wrapper">
+            
+<div class="Breadcrumb Breadcrumb-only" itemscope itemtype="http://schema.org/BreadcrumbList"><span class="Breadcrumb_element" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><meta itemprop="position" content="1" /><a class="Breadcrumb_list" itemprop="name" href="../logout?subdomain=maisonmoraud-lyon7" itemprop="item">Maison Moraud</a></span><span class="Breadcrumb_element" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><meta itemprop="position" content="2" /><span class="Breadcrumb_list" itemprop="name">Conditions générales de vente</span></span></div>
+        </div>
+    </div>
+
+    <div class="Retractation">
+        <div class="Wrapper Wrapper-small">
+            <h1 class="Title Title-bigger Title-marginSub">
+                Conditions générales de vente
+                <span class="Title Title-block Title-small Title-marginSub FontHighlighted FontUppercase">de la boucherie Maison Moraud à Lyon</span>
+            </h1>
+
+            <div class="Page_content CustomContent CustomContent-cgu">
+                <p>Les présentes conditions générales de vente régissent les relations contractuelles entre la société &laquo;&nbsp;Boucherie de la Place&nbsp;&raquo; et son client (ci-après le &laquo;&nbsp;<em>Client&nbsp;</em>&raquo;) lors de l&rsquo;achat par ce dernier de produits sur le site internet <u>https://maisonmoraud-lyon7.weboucherie.fr</u> (ci-après le &laquo;&nbsp;<em>Site&nbsp;</em>&raquo;).</p>
+
+<p>Le Client reconnaît, avoir pris connaissance au moment de la passation de sa commande des conditions particulières de vente énoncées sur le Site (portant notamment sur les particularités des produits s&rsquo;agissant par exemple de leur dénomination, de leur prix, de leurs composants, de leur poids ou de la quantité) ainsi que des conditions inscrites sur cet écran qui constituent ensemble les conditions générales de vente en ligne applicables aux produits vendus sur le Site (ci-après les &laquo;&nbsp;<em>Produits</em>&nbsp;&raquo;).</p>
+
+<p>Les conditions générales de vente décrites ci-après prévalent sur toutes autres conditions figurant dans tout autre document, sauf dérogation préalable, expresse et écrite de la part de la société &laquo;&nbsp;Boucherie de la Place &raquo; et excluent toutes autres conditions de vente notamment celles en vigueur pour les ventes en magasin et/ou par catalogue.</p>
+
+<p><strong>En conséquence, la passation de la commande par le Client vaut acceptation pleine et entière des présentes conditions générales, lesquelles sont seules applicables au contrat ainsi conclu.</strong></p>
+
+<p>La société &laquo;&nbsp;Boucherie de la Place &raquo; a la faculté de modifier à tout moment les présentes conditions générales de vente. Toute modification prendra effet immédiatement dès sa mise en ligne sur le Site. Elle ne s&rsquo;appliquera pas pour les transactions en cours au moment de leur entrée en vigueur.</p>
+
+<p>Les mineurs n&rsquo;ont pas la capacité juridique. Par conséquent, ils ne sont pas aptes à commander sur le Site.</p>
+
+<p><strong>1/<u>L&rsquo;OFFRE DU SITE</u></strong></p>
+
+<p>Le Site contient une proposition commerciale de vente de Produits, laquelle n&rsquo;est pas considérée comme une offre permanente&nbsp;: les offres de Produits et de prix sont valables pour la durée de la mise en ligne, et dans la limite des stocks disponibles.</p>
+
+<p>&laquo;&nbsp;Boucherie de la Place &raquo; se réserve le droit de supprimer, modifier, ou corriger à tout moment et sans préavis le contenu de ce Site.</p>
+
+<p>Ce Site est réservé aux commandes émises par les particuliers et professionnels domiciliés en France Métropolitaine.</p>
+
+<p><strong>2/<u>DESIGNATION ET PRIX DES PRODUITS</u></strong></p>
+
+<p>La désignation des Produits est effectuée au moyen d&rsquo;un texte présentant, pour chacun d&rsquo;eux les caractéristiques essentielles.</p>
+
+<p>Les prix applicables aux Produits sont ceux indiqués sur le Site au moment de l&rsquo;enregistrement de la commande par le Client. &laquo;&nbsp;Boucherie de la Place &raquo; peut modifier à tout moment les prix de vente des Produits indiqués sur le Site.</p>
+
+<p>Les prix des Produits sont indiqués en euros toutes taxes comprises, hors frais de livraison. Ils tiennent compte de la TVA et des éventuelles réductions applicables au jour de la commande.</p>
+
+<p>Si une ou plusieurs taxes ou contributions, venaient à être créées ou modifiées, en hausse comme en baisse, ce changement pourra être répercuté sur le prix de vente des Produits présents sur le Site.</p>
+
+<p>Pour les Produits à poids variable (c&rsquo;est-à-dire les Produits dont le prix est mentionné au poids, comme par exemple la viande de bœuf), le poids mentionné pourra varier de plus ou moins 10% au moment de la préparation de la commande selon la découpe desdits Produits par &laquo;&nbsp;Boucherie de la Place &raquo;.</p>
+
+<p>Le prix indiqué au moment de la prise de commande sur le Site sera donc susceptible de varier de plus ou moins 10% en fonction du poids réel des Produits préparés et suivant le prix au kilo mentionné sur le Site au moment de ladite prise de commande.</p>
+
+<p>Il est précisé que le prix facturé au Client est le prix définitif TTC qu&rsquo;il aura à payer (correspondant au poids effectif des Produits une fois la commande préparée).</p>
+
+<p>Toutefois par exception, ce prix pourra varier en cas&nbsp;d&rsquo;indisponibilité d&rsquo;un ou plusieurs Produits.</p>
+
+<p>Les photographies illustrant les Produits n&rsquo;entrent pas dans le champ contractuel. Les différences entre les photographies et les Produits peuvent être des différences minimes et ne portent pas sur les caractéristiques essentielles des Produits.</p>
+
+<p>Si des erreurs, notamment typographiques, s&rsquo;y sont introduites, en aucun cas, la responsabilité de la société &laquo;&nbsp;Boucherie de la Place &raquo; ne pourra être engagée.</p>
+
+<p><strong>3/ <u>COMMANDE ET CONCLUSION DU CONTRAT</u></strong></p>
+
+<p>L&rsquo;utilisateur du Site, après avoir pris connaissance des Produits commercialisés sur le Site, peut sélectionner les Produits en indiquant les quantités voulues et en les ajoutant à son panier.</p>
+
+<p><u>Pour valider sa commande, le Client doit suivre les étapes suivantes</u> :</p>
+
+<p><strong>1. Connexion au compte utilisateur </strong></p>
+
+<p>L&rsquo;utilisateur du Site doit se rendre dans la rubrique &laquo;&nbsp;Panier&nbsp;&raquo; située en haut de page. Un récapitulatif du panier est alors affiché.</p>
+
+<p>L&rsquo;utilisateur du Site n&rsquo;est engagé en rien à cette étape.</p>
+
+<p>S&rsquo;il souhaite passer commande, il doit devenir &laquo;&nbsp;Client&nbsp;&raquo; en se connectant au préalable grâce à l&rsquo;onglet &laquo;&nbsp;Connectez-vous&nbsp;&raquo;.</p>
+
+<p>Lors de la première connexion, il lui sera demandé de créer un compte client en renseignant les informations suivantes&nbsp;: nom, prénom, date de naissance, adresse email, adresse de livraison (qui correspond à l&rsquo;adresse de facturation en cas de choix du mode &laquo;&nbsp;retrait&nbsp;&raquo; par le Client), téléphone fixe ou téléphone portable, mot de passe. Les champs obligatoires pour la création d&rsquo;un compte par le Client sur le Site sont signalés par un astérisque.</p>
+
+<p>Sur la page &laquo;&nbsp;Connectez-vous&nbsp;&raquo;, le Client pourra également accepter de recevoir des informations de &laquo;&nbsp;Boucherie de la Place&nbsp;&raquo; ou de son partenaire Weboucherie en cochant les cases correspondantes, et inscrire son numéro de carte de fidélité, le cas échéant.</p>
+
+<p>Si le Client a déjà créé un compte client lors d&rsquo;une précédente connexion, il lui suffira pour se connecter de renseigner son adresse email ainsi que le mot de passe choisi.</p>
+
+<p>Une fois connecté, le Client peut passer commande en appuyant sur le bouton &laquo;&nbsp;Commander&nbsp;&raquo; et passer à l&rsquo;étape de choix du service.</p>
+
+<p><strong>2. Choix du service (mode &laquo;&nbsp;retrait&nbsp;&raquo; ou &laquo;&nbsp;livraison&nbsp;&raquo;)</strong></p>
+
+<p>Le Client choisit entre les modes de mise à disposition de la commande en cliquant sur les onglets &laquo;&nbsp;Retrait boutique&nbsp;&raquo;, ou &laquo; Livraison par votre boucher &raquo; sur la page du Site correspondante.</p>
+
+<p>2.1 &ndash; <u>Choix du mode &laquo;&nbsp;retrait&nbsp;&raquo;</u></p>
+
+<p>Si le Client choisit le mode &laquo;&nbsp;retrait&nbsp;&raquo;, il doit vérifier son adresse de facturation et choisir sa date et son créneau horaire de retrait.</p>
+
+<p>Quel que soit le montant de la commande,&nbsp;le retrait des Produits en magasin est gratuit.</p>
+
+<p>2.2 &ndash; <u>Choix du</u> <u>mode &laquo;&nbsp;livraison par votre boucher&nbsp;&raquo; </u></p>
+
+<p>Quel que soit le montant de la commande, le Client peut également choisir de se faire livrer sa commande à domicile.</p>
+
+<p>Pour une même commande, il n&rsquo;est pas possible de choisir qu&rsquo;une partie des Produits sera retirée en magasin et une autre partie des Produits livrée à domicile.</p>
+
+<ul>
+	<li>Choix de la livraison à domicile par &laquo; Boucherie de la Place&nbsp;&raquo; (en cliquant sur l&rsquo;onglet &laquo;&nbsp;livraison par votre boucher&nbsp;&raquo;)</li>
+</ul>
+
+<p>Ce choix peut être effectué par le Client dans la limite des zones de livraison propres à la &laquo; Boucherie de la Place&nbsp;&raquo;.</p>
+
+<p>Les zones de livraison à domicile sont indiquées au Client sur le Site au moment de la validation de la commande.</p>
+
+<p>Le Client pourra choisir sa date de livraison et le créneau horaire.</p>
+
+<p>Les frais de livraison appliqués seront les suivants&nbsp;:&nbsp;</p>
+
+<p>A partir de 0&euro; les frais de port s&rsquo;élèvent à 5&euro;</p>
+
+<p>A partir de 50 &euro; les frais de port sont gratuits</p>
+
+<p><strong>3. Récapitulatif de commande</strong></p>
+
+<p>Une fois les étapes &laquo;&nbsp;connexion&nbsp;&raquo; et &laquo;&nbsp;choix du service&nbsp;&raquo; validées, une page de récapitulatif de commande s&rsquo;affiche. Sur cette page de récapitulatif de commande, le Client pourra indiquer, s&rsquo;il en possède un, un code promotionnel.</p>
+
+<p><strong>Le Client pourra également prendre connaissance des Conditions Générales de Vente accessibles par un lien hypertexte et obligatoirement accepter lesdites Conditions Générales de Vente s&rsquo;il souhaite accéder à l&rsquo;étape de paiement.</strong></p>
+
+<p><strong>4. Paiement </strong></p>
+
+<p>Le Client est dirigé ensuite sur la page de paiement par carte bancaire en cliquant sur le bouton &laquo;&nbsp;passez au paiement&nbsp;&raquo;. Lors de la validation du paiement par le Client, une autorisation de prélèvement, correspondant au montant TTC du panier (en Euros), est effectuée. Si l&rsquo;autorisation de prélèvement est acceptée, la commande est considérée comme finalisée et à préparer.</p>
+
+<p>Cette dernière étape formalise le contrat de vente entre la société &laquo;&nbsp;Boucherie de la Place &raquo; et le Client.</p>
+
+<p>Un email de confirmation de la commande ainsi que du créneau de retrait ou de livraison sera adressé au Client automatiquement. Un second e-mail de confirmation sera ensuite adressé au Client pour l&rsquo;informer que sa commande être prête, et le cas échéant, lui indiquer le montant exact facturé en fonction du poids réel des prix, comme évoqué à l&rsquo;article 2 ci-dessus.</p>
+
+<p>La société &laquo; Boucherie de la Place&nbsp;&raquo; se réserve la possibilité de ne pas confirmer une commande dans certains cas, tenant notamment à un problème d&rsquo;approvisionnement de produits ou à un problème concernant la commande reçue ou le compte de l&rsquo;utilisateur.</p>
+
+<p>Dans ce cas, la société &laquo;&nbsp;Boucherie de la Place&nbsp;&raquo; en informera le Client dans les meilleurs délais.</p>
+
+<p>&nbsp;&laquo;&nbsp;Boucherie de la Place &raquo; se réserve par ailleurs la possibilité de ne pas accepter la commande d&rsquo;un Client avec lequel il existerait un litige.</p>
+
+<p>&laquo;&nbsp;Boucherie de la Place &raquo; se réserve également la possibilité de suspendre ou d&rsquo;annuler l&rsquo;exécution d&rsquo;une commande en cas de défaut de paiement, en cas d&rsquo;incident de paiement ou en cas de fraude ou tentative de fraude relative à l&rsquo;utilisation du Site.</p>
+
+<p>Il est précisé que les frais de télécommunications lors de l&rsquo;accès à l&rsquo;internet et de l&rsquo;utilisation du Site demeurent à la charge du Client.</p>
+
+<p>Le Client est débité lorsque sa commande est préparée par &laquo; Boucherie de la Place&nbsp;&raquo;.</p>
+
+<p><strong>4/<u>DROIT DE RETRACTATION</u></strong></p>
+
+<p>Conformément aux dispositions des articles L221-18 et suivants du code de la consommation, le Client dispose d&rsquo;un délai de quinze (15) jours à compter de la réception ou du retrait de sa commande en magasin pour notifier à ses frais à &laquo;Boucherie de la Place &raquo; sa décision de se rétracter de sa commande en retournant à ce dernier par courrier libre à l&rsquo;adresse suivante 22, rue de la Madeleine &ndash; 69&nbsp;007 LYON ou par email gestion.boucheriemoraud@gmail.com le formulaire de rétractation disponible sur le Site en cliquant sur l&rsquo;onglet &laquo;&nbsp;Formulaire de rétractation&nbsp;&raquo;.</p>
+
+<p>Si ce délai de rétractation précité expire un samedi, un dimanche ou un jour férié ou chômé, il est prorogé jusqu&#39;au premier jour ouvrable suivant.</p>
+
+<p>Le Client doit restituer les Produits à &laquo; Boucherie de la Place&nbsp;&raquo; plus tard, dans les quatorze jours suivant la communication de sa décision de se rétracter.</p>
+
+<p>Le Client aura alors le choix de demander soit le remboursement des sommes versées en contrepartie de la réexpédition des Produits aux frais du Client, soit l&rsquo;échange du Produit.</p>
+
+<p>Conformément aux termes de l&rsquo;article L. 221-28 du code de la consommation, le Client est informé que le droit de rétractation ne peut être exercé dans l&rsquo;hypothèse où les Produits auraient été descellés ou entamés, ainsi que dans l&rsquo;hypothèse où les Produits sont susceptibles de se détériorer ou de se périmer rapidement. Ce droit de rétractation ne peut donc notamment être exercé pour les commandes de Produits frais effectuées sur le Site.</p>
+
+<p><strong>5/<u> DELAI ET CONDITIONS DE RETRAIT EN MAGASIN OU DE LIVRAISON A DOMICILE</u></strong></p>
+
+<p style="margin-left:18.0pt;"><strong>5.1</strong><strong>&nbsp;Délai</strong> <strong>de retrait en magasin ou livraison à domicile</strong></p>
+
+<p>La société Boucherie de la Place s&rsquo;engage à mettre à disposition en magasin ou à livrer à domicile les Produits commandés par le Client&nbsp;dans le délai mentionné sur le Site au moment de la passation de la commande.</p>
+
+<p>Le délai de livraison ne commence à courir qu&rsquo;à compter de la réception par le Client de la confirmation de commande.</p>
+
+<p>Ces délais s&rsquo;entendent pour les jours ouvrés hors cas de force majeure, ou de façon générale hors circonstances exceptionnelles, et sous réserve de la disponibilité des produits.</p>
+
+<p>En cas d&rsquo;impossibilité de mise à disposition ou de livraison à la date et au créneau choisis par le Client au moment de la passation de la commande, Boucherie de la Place prendra contact dès que possible avec le Client pour convenir d&rsquo;un autre rendez-vous.</p>
+
+<p>En cas de retard non imputable au Client, celui-ci aura la possibilité de demander l&rsquo;annulation de sa commande dans les conditions énoncées aux articles L.216-1 et suivants du Code de la consommation.</p>
+
+<p>En cas de non mise à disposition ou de non livraison d&rsquo;un produit en raison de son indisponibilité, Boucherie de la Place en informera le Client dans les meilleurs délais et s&rsquo;engage à proposer un produit similaire dans des conditions applicables en magasin ou, sauf indication contraire de la part du Client, à rembourser ce dernier au plus tard dans les quatorze jours suivant la date à laquelle la commande a été annulée par le Client.</p>
+
+<p>Les retards éventuels ne donnent pas le droit au Client de réclamer des dommages et intérêts.</p>
+
+<p>Pour des raisons de disponibilités, une commande peut être livrée en plusieurs fois au Client. Le Client ne règle alors qu&rsquo;une seule livraison.</p>
+
+<p><strong>5.2 Conditions de retrait en magasin et de livraison à domicile</strong></p>
+
+<ul>
+	<li>Pour le retrait en magasin, les Produits sont mis à la disposition du Client dans le magasin auprès duquel il a passé commande aux jour et créneau choisis.</li>
+</ul>
+
+<p>Si le Client ne se présente pas au jour et créneau choisis, il sera informé par e-mail que les Produits sont à sa disposition en magasin dans un délai de 48 heures à compter du jour et du créneau initialement choisis.</p>
+
+<p>Au-delà de ce délai, les Produits ne seront plus à disposition.</p>
+
+<p>En aucun cas, la société &laquo;&nbsp;Boucherie de la Place&nbsp;&raquo; ne saurait être responsable d&rsquo;une éventuelle détérioration des Produits en cas de retrait tardif desdits Produits, ou de non retrait des Produits par le Client.</p>
+
+<p>Le récapitulatif de la commande envoyée par e-mail et une pièce d&rsquo;identité seront demandés au Client au moment du retrait des Produits en magasin, la vente pouvant être annulée par la &laquo;&nbsp;Boucherie de la Place&nbsp;&raquo; en cas de refus de présentation de ces documents.</p>
+
+<ul>
+	<li>Pour la livraison à domicile par &laquo;&nbsp;Boucherie de la Place &raquo;, les Produits seront livrés par le magasin directement chez le Client à l&rsquo;adresse indiquée sur la commande aux jour et créneau choisis lors de la commande.</li>
+</ul>
+
+<p>En cas d&rsquo;absence du Client, le livreur laissera un avis de passage.</p>
+
+<p>Dans ce cas, le Client sera informé par e-mail que les Produits sont à sa disposition en magasin dans un délai de 48 heures à compter du jour et du créneau initialement choisis.</p>
+
+<p>Au-delà de ce délai, les Produits ne seront plus à disposition et les frais de port s&rsquo;il y en a resteront à la charge du Client.</p>
+
+<p>En aucun cas, les Produits ne pourront faire l&rsquo;objet d&rsquo;une nouvelle livraison à domicile.</p>
+
+<p>La livraison à domicile aura uniquement lieu sur le palier du Client et ne pourra être réalisée en aucun autre lieu.</p>
+
+<p>Le récapitulatif de la commande envoyée par e-mail et une pièce d&rsquo;identité seront demandées au Client au moment de la livraison à domicile, la vente pouvant être annulée par Boucherie de la Place en cas de refus de présentation de ces documents.</p>
+
+<p><strong><u>6/ RESERVES</u></strong></p>
+
+<p>Le Client ne peut émettre de réserves lors du retrait ou de la livraison des Produits qu&rsquo;en cas de mise à disposition manifestement non conforme à la commande (sous réserve des dispositions relatives aux Produits à poids variable), ou au cas où le colis contenant les Produits serait fortement endommagé.</p>
+
+<p>Toutes réserves ou réclamations doivent être adressées le jour même au magasin auprès duquel a été passée la commande aux coordonnées se trouvant sur le courriel de confirmation de la commande.</p>
+
+<p>Si la mise à disposition n&rsquo;est manifestement pas conforme à la commande (sous réserve des dispositions relatives aux Produits à poids variable) ou s&rsquo;il est prouvé que les Produits ont été fortement endommagés, la société &laquo; Boucherie de la Place&nbsp;&raquo; remboursera au Client la différence de prix entre les Produits commandés et ceux effectivement livrés.</p>
+
+<p>Les dispositions des présentes ne peuvent priver le Client de la garantie légale qui oblige le vendeur professionnel à le garantir contre toutes les conséquences des vices cachés de la chose vendue.</p>
+
+<p><strong>7/ <u>MODALITES DE PAIEMENT</u></strong></p>
+
+<p>Les commandes émises en ligne sont payables comptant par carte bancaire (Carte bleue, Mastercard, Visa) dans les conditions ci-dessus mentionnées à l&rsquo;article 4, sans escompte.</p>
+
+<p>Afin d&#39;assurer la sécurité des paiements, &laquo;&nbsp;Boucherie de la Place&nbsp;&raquo; utilise le service de paiement sécurisé d&rsquo;un prestataire : la société MANGOPAY. Toutes les données sensibles liées aux moyens de paiement sont ainsi protégées. Les informations bancaires du Client (numéro de carte bancaire, date de validité) sont cryptées par le système de paiement &laquo;&nbsp;Mangopay&nbsp;&raquo;. Elles sont inaccessibles par des tiers.</p>
+
+<p>La commande validée par le Client ne sera considérée comme effective que lorsque les centres de paiement bancaire concernés auront donné leur accord. En cas de refus desdits centres, la commande sera automatiquement annulée.</p>
+
+<p><strong>8/ <u>STOCKAGE, DATES DE CONSOMMATION DES PRODUITS</u></strong></p>
+
+<p>En tout état de cause, la société &laquo;&nbsp;Boucherie de la Place&nbsp;&raquo; ne pourra être tenue pour responsable de toute mauvaise conservation par le Client des Produits, en particulier des Produits frais.</p>
+
+<p>Si des dates de consommation sont indiquées sur les Produits, elles doivent être respectées par le Client. La société &laquo;&nbsp;Boucherie de la Place&nbsp;&raquo; attire l&rsquo;attention du Client sur le fait qu&rsquo;il ne faut pas consommer ou faire consommer les Produits au-delà des dates limites indiquées sur les emballages ou s&rsquo;il apparaît que les Produits sont détériorés.</p>
+
+<p><strong>9/ <u>RESPONSABILITE</u></strong></p>
+
+<p>&laquo;&nbsp;Boucherie de la Place &raquo; ne pourra être tenue pour responsable pour quelque raison que ce soit en cas d&rsquo;évènements constitutifs d&rsquo;un cas de force majeure, notamment en cas d&rsquo;une annulation de commande ou d&rsquo;un retard de livraison de ce fait.</p>
+
+<p>Elle ne pourra pas non plus être tenue pour responsable en cas&nbsp;:</p>
+
+<p style="margin-left:36.0pt;">- de transmission par le Client d&rsquo;informations fausses ou inexactes, d&rsquo;erreur de saisie de ses coordonnées par le Client&nbsp;;</p>
+
+<p style="margin-left:36.0pt;">- en cas de mauvaise manipulation du Client au moment de la passation de la commande&nbsp;;</p>
+
+<p style="margin-left:36.0pt;">- en cas de retard, de perte ou de mauvaise distribution d&rsquo;un e-mail ou de son envoi ou non à une adresse électronique erronée&nbsp;;</p>
+
+<p style="margin-left:36.0pt;">- en cas d&rsquo;erreur relative à la description des Produits et tarifs sur le Site.</p>
+
+<p>&nbsp;&laquo;&nbsp;Boucherie de la Place &raquo; ne sera pas responsable de dommages quelconques liés à l&rsquo;utilisation du Site par le Client, ou de dommages quelconques qui pourraient être causés au matériel informatique du Client suite à son accès au Site, ainsi que de tous problèmes techniques concernant le Site et/ou toute interruption du Site pour quelque cause que ce soit, y compris en cas d&rsquo;opérations de maintenance.</p>
+
+<p>D&rsquo;une manière générale, &laquo;&nbsp;Boucherie de la Place &raquo; ne pourra être tenu pour responsable de tous dommages, directs ou indirects, quels qu&rsquo;en soient les causes, origines, natures ou conséquences, provoqués par l&rsquo;accès de quiconque au Site ou de l&rsquo;impossibilité d&rsquo;y accéder, ainsi que de l&rsquo;utilisation du Site et/ou du crédit accordé à une quelconque information provenant directement ou indirectement du Site.</p>
+
+<p>&laquo;&nbsp;Boucherie de la Place &raquo; ne sera pas responsable en cas d&rsquo;une intrusion frauduleuse d&rsquo;un tiers sur le Site ayant entraîné une modification des informations du Site.</p>
+
+<p>Boucherie de la Place ne saurait être tenue responsable d&#39;un dommage ou d&#39;un virus qui pourrait infecter l&#39;ordinateur de l&#39;internaute ou tout matériel informatique, suite à une utilisation ou à un accès au Site ou à un téléchargement.</p>
+
+<p>Par ailleurs le Client garantit &laquo;&nbsp;Boucherie de la Place &raquo; contre toute poursuite du fait de la transmission par le Client d&rsquo;informations fausses ou appartenant à des tiers.</p>
+
+<p><strong>10/ <u>PROPRIETE INTELLECTUELLE</u></strong></p>
+
+<p>La société &laquo;&nbsp;Boucherie de la Place&nbsp;&raquo; est titulaire de l&rsquo;ensemble des droits afférents au Site. Sauf autorisation préalable et expresse de la société &laquo;&nbsp;Boucherie de la Place &raquo;, il est interdit de copier, télécharger tout ou partie du Site ou de son contenu.</p>
+
+<p><strong>11/ <u>VIE PRIVEE ET COOKIES</u></strong></p>
+
+<p>&nbsp;<strong>11.1 Vie Privée</strong></p>
+
+<p>Le traitement de données personnelles collectées à partir du Site a fait l&rsquo;objet d&rsquo;une déclaration auprès de la Commission Nationale de l&rsquo;Informatique et des Libertés.</p>
+
+<p>Dans le cadre de la gestion du Site, la Société peut être amenée à collecter et à traiter des données nominatives pour&nbsp;:</p>
+
+<ul>
+	<li>la création du compte du Client en vue du traitement de la commande et du paiement de ladite commande en ligne&nbsp;;</li>
+	<li>l&rsquo;inscription en ligne des utilisateurs du Site souhaitant recevoir des informations, offres commerciales et/ou publicités par email (notamment sous forme de newsletters)&nbsp;de la part de &laquo;&nbsp;Boucherie de la Place &raquo;&nbsp;; les utilisateurs devront cocher à cet effet la case &laquo; Recevoir des informations de votre boucher&nbsp;&raquo;&nbsp;sur le formulaire de création du compte client, &laquo;&nbsp;Boucherie de la Place &raquo;&nbsp;; Sauf opposition, le Client pourra également recevoir par voie postale des informations à caractère commercial&nbsp;;</li>
+	<li>la transmission desdites données nominatives par &laquo; Boucherie de la Place &raquo; à son partenaire Weboucherie (la société GRAND SALOIR SAINT NICOLAS) susceptible d&rsquo;utiliser ces données à des fins exclusives de communication et d&rsquo;information par email&nbsp;; si le Client le souhaite, il devra pour ce faire cocher la case &laquo;&nbsp;Recevoir des informations de notre partenaire Weboucherie&nbsp;&raquo;&nbsp;sur le formulaire de création du compte client&nbsp;; &laquo;&nbsp;Boucherie de la Place &raquo;&nbsp;;</li>
+	<li>aux fins d&rsquo;études statistiques.</li>
+</ul>
+
+<p>Toutes les données à caractère personnel sont collectées et traitées de manière strictement confidentielle. Elles ne peuvent être collectées sans l&rsquo;accord préalable des utilisateurs. Elles sont uniquement destinées à la société Boucherie de la Place ou à son partenaire Weboucherie et ne peuvent être utilisées pour une autre fin que celle pour laquelle elles ont été collectées.</p>
+
+<p>Certaines informations demandées pour le paiement de la commande en ligne ou l&rsquo;inscription des utilisateurs souhaitant recevoir des informations, signalées par un astérisque ou par la mention &laquo; champ requis &raquo;, sont obligatoires pour pouvoir bénéficier de ces services. Si les utilisateurs choisissent de ne pas les communiquer, la Société ne pourra traiter leur demande.</p>
+
+<p>La Société s&rsquo;engage à prendre les mesures appropriées pour préserver la sécurité des données à caractère personnel et, notamment, empêcher qu&#39;elles soient déformées, endommagées, ou que des tiers non autorisés y aient accès.</p>
+
+<p>Conformément à la loi &laquo; informatique et libertés &raquo; du 6 janvier 1978 modifiée en 2004, les utilisateurs du Site bénéficient à tout moment d&rsquo;un droit d&rsquo;accès, de rectification et de suppression des informations nominatives les concernant, qu&rsquo;ils peuvent exercer par courrier adressé à la société Boucherie de la Place, 22, rue de la Madeleine &ndash; 69007 LYON ou par e-mail : <a href="mailto:gestion.boucheriemoraud@gmail.com">gestion.boucheriemoraud@gmail.com</a>.</p>
+
+<p><strong>11.2 &nbsp;&nbsp;&nbsp;&nbsp; Utilisation de cookies</strong></p>
+
+<p>Un cookie est un petit fichier texte qui est placé ou stocké sur un appareil (ordinateur, tablette ou appareil mobile) lorsqu&rsquo;un internaute visite un site internet. Le cookie permet à un site d&rsquo;enregistrer des informations relatives à la navigation de l&rsquo;utilisateur.</p>
+
+<p>L&rsquo;utilisateur est informé que, lors de ses visites sur le Site, un ou plusieurs cookies peuvent s&rsquo;installer automatiquement sur son logiciel de navigation.</p>
+
+<p>Les cookies utilisés par &laquo;&nbsp;Boucherie de la Place &raquo; sont utilisés dans le but de</p>
+
+<ul>
+	<li>Etablir des statistiques de fréquentation&nbsp;;</li>
+	<li>Effectuer des diagnostics pour améliorer le contenu et l&rsquo;ergonomie du Site&nbsp;;</li>
+	<li>Personnaliser votre expérience utilisateur&nbsp;;</li>
+	<li>Mémoriser des informations remplies sur le Site (formulaires contact, inscription Newsletter) et/ou de vous identifier automatiquement lors de la visite de l&rsquo;internaute.</li>
+</ul>
+
+<p>Le paramétrage du logiciel de navigation permet d&rsquo;informer de la présence d&rsquo;un ou plusieurs cookies et éventuellement, de les refuser.</p>
+
+<p>L&rsquo;utilisateur peut, s&rsquo;il le souhaite, activer ou désactiver l&rsquo;utilisation de cookies en sélectionnant les paramètres appropriés de son logiciel de navigation.</p>
+
+<p>Généralement, ces paramètres se retrouvent dans les onglets &laquo; outils &raquo; ou &laquo; paramètres &raquo;.</p>
+
+<p>Il n&rsquo;est pas possible d&rsquo;assurer une information détaillée et à jour de ces éléments de paramétrage, qui sont sous le seul contrôle exclusif et l&rsquo;autorité des éditeurs des logiciels de navigation.</p>
+
+<p>A titre de renseignements, les utilisateurs peuvent disposer d&rsquo;informations complémentaires :</p>
+
+<ul>
+	<li>de la part des éditeurs de leur logiciel de navigation sur leur site internet</li>
+	<li>de manière plus générale, sur le site de la Cnil à l&rsquo;adresse www.cnil.fr en utilisant le mot clé &laquo; cookies &raquo; dans les moteurs de recherche</li>
+</ul>
+
+<p>L&rsquo;utilisateur est informé qu&rsquo;une telle désactivation pourrait empêcher l&rsquo;utilisation de certaines fonctionnalités du Site.</p>
+
+<p><strong>11.3 Liens hypertextes</strong></p>
+
+<p>Les liens hypertextes mis en place dans le cadre du Site en direction d&#39;autres sites présents sur le réseau internet ne sauraient engager la responsabilité de &laquo; Boucherie de la Place&nbsp;&raquo;&nbsp;en ce qui concerne leur contenu ou les liens qu&#39;ils contiennent, ainsi que leurs conditions.&nbsp;La possibilité d&#39;établir des liens hypertextes simples vers le Site est soumise à l&#39;accord préalable écrit de &laquo; Boucherie de la Place&nbsp;&raquo;.</p>
+
+<p><strong>12/ <u>INTEGRALITE ET ABSENCE DE RENONCIATION</u></strong></p>
+
+<p>Dans le cas où l&rsquo;une quelconque des présentes conditions générales de vente serait déclarée nulle ou non écrite, les autres conditions resteront intégralement en vigueur.</p>
+
+<p>Par ailleurs, le défaut d&rsquo;exercice par &laquo;&nbsp;Boucherie de la Place &raquo; des droits prévus par les présentes n&rsquo;équivaut pas de sa part à une renonciation définitive à faire valoir ces droits.</p>
+
+<p><strong>13/ <u>PREUVE</u></strong></p>
+
+<p>Les registres informatisés, conservés dans les systèmes informatiques de la société &laquo;&nbsp;Boucherie de la Place &raquo; dans des conditions conformes aux règles de l&rsquo;art, seront considérés entre les parties comme les preuves des communications, des commandes et des paiements intervenus.</p>
+
+<p><strong>14/ <u>LITIGES ET TRIBUNAUX COMPETENTS</u></strong></p>
+
+<p>Le présent contrat est soumis au droit français. Toute contestation quant à la validité, l&rsquo;interprétation ou l&rsquo;exécution du présent contrat sera soumise à la compétence des tribunaux français.</p>
+
+<p><strong>15/ <u>LES GARANTIES LEGALES</u></strong></p>
+
+<p><strong>Article L217-15 du Code de la Consommation</strong></p>
+
+<p><em>&laquo;&nbsp;La garantie commerciale s&#39;entend de tout engagement contractuel d&#39;un professionnel à l&#39;égard du consommateur en vue du remboursement du prix d&#39;achat, du remplacement ou de la réparation du bien ou de la prestation de tout autre service en relation avec le bien, en sus de ses obligations légales visant à garantir la conformité du bien.</em></p>
+
+<p><em>La garantie commerciale fait l&#39;objet d&#39;un contrat écrit, dont un exemplaire est remis à l&#39;acheteur.</em></p>
+
+<p><em>Le contrat précise le contenu de la garantie, les modalités de sa mise en œuvre, son prix, sa durée, son étendue territoriale ainsi que le nom et l&#39;adresse du garant.</em></p>
+
+<p><em>En outre, il mentionne de façon claire et précise que, indépendamment de la garantie commerciale, le vendeur reste tenu de la garantie légale de conformité mentionnée aux articles L. 217-4 à L. 217-12 et de celle relative aux défauts de la chose vendue, dans les conditions prévues aux articles 1641 à 1648 et 2232 du code civil.</em></p>
+
+<p><em>Les dispositions des articles L. 217-4, L. 217-5, L. 217-12 et L. 217-16 ainsi que l&#39;article 1641 et le premier alinéa de l&#39;article 1648 du code civil sont intégralement reproduites dans le contrat.&nbsp;&raquo;</em></p>
+
+<p><em>En cas de non-respect de ces dispositions, la garantie demeure valable. L&#39;acheteur est en droit de s&#39;en prévaloir.&nbsp;&raquo;</em></p>
+
+<p>&nbsp;<strong>Article L. 217-4 du code de la consommation</strong>&nbsp;</p>
+
+<p>&laquo;&nbsp;<em>Le vendeur livre un bien conforme au contrat et répond des défauts de conformité existant lors de la délivrance.</em></p>
+
+<p><em>Il répond également des défauts de conformité résultant de l&#39;emballage, des instructions de montage ou de l&#39;installation lorsque celle-ci a été mise à sa charge par le contrat ou a été réalisée sous sa responsabilité</em>.&nbsp;&raquo;.</p>
+
+<p><strong>&nbsp;Article L. 217-5 du code de la consommation&nbsp;</strong></p>
+
+<p><em>Le bien est conforme au contrat :</em></p>
+
+<p><em>1&deg; S&#39;il est propre à l&#39;usage habituellement attendu d&#39;un bien semblable et, le cas échéant :</em></p>
+
+<p><em>- s&#39;il correspond à la description donnée par le vendeur et possède les qualités que celui-ci a présentées à l&#39;acheteur sous forme d&#39;échantillon ou de modèle ;</em></p>
+
+<p><em>- s&#39;il présente les qualités qu&#39;un acheteur peut légitimement attendre eu égard aux déclarations publiques faites par le vendeur, par le producteur ou par son représentant, notamment dans la publicité ou l&#39;étiquetage ;</em></p>
+
+<p><em>2&deg; Ou s&#39;il présente les caractéristiques définies d&#39;un commun accord par les parties ou est propre à tout usage spécial recherché par l&#39;acheteur, porté à la connaissance du vendeur et que ce dernier a accepté.&nbsp;&raquo;</em></p>
+
+<p><strong>Article L. 217-12 du code de la consommation&nbsp;</strong></p>
+
+<p>&laquo;&nbsp;L&#39;action résultant du défaut de conformité se prescrit par deux ans à compter de la délivrance du bien.&nbsp;&raquo;</p>
+
+<p><strong>Article L. 217-16 du code de la consommation&nbsp;</strong></p>
+
+<p>&laquo;&nbsp;<em>Lorsque l&#39;acheteur demande au vendeur, pendant le cours de la garantie commerciale qui lui a été consentie lors de l&#39;acquisition ou de la réparation d&#39;un bien meuble, une remise en état couverte par la garantie, toute période d&#39;immobilisation d&#39;au moins sept jours viennent s&#39;ajouter à la durée de la garantie qui restait à courir.</em></p>
+
+<p><em>Cette période court à compter de la demande d&#39;intervention de l&#39;acheteur ou de la mise à disposition pour réparation du bien en cause, si cette mise à disposition est postérieure à la demande d&#39;intervention.&nbsp;</em>&raquo;</p>
+
+<p><strong>Article 1641 du code civil&nbsp;</strong></p>
+
+<p>&laquo;&nbsp;<em>Le vendeur est tenu de la garantie à raison des défauts cachés de la chose vendue qui la rendent impropre à l&#39;usage auquel on la destine, ou qui diminuent tellement cet usage que l&#39;acheteur ne l&#39;aurait pas acquise, ou n&#39;en aurait donné qu&#39;un moindre prix, s&#39;il les avait connus.</em>&nbsp;&raquo;</p>
+
+<p><strong>Article 1648, alinéa 1, du code civil&nbsp;</strong></p>
+
+<p>&laquo;&nbsp;<em>L&#39;action résultant des vices rédhibitoires doit être intentée par l&#39;acquéreur dans un délai de deux ans à compter de la découverte du vice.&nbsp;</em>&raquo;.</p>
+
+<p>&nbsp;</p>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+            <ul class="FooterNav Wrapper">
+            
+                <li class="FooterNav_item first">        <a href="../magasin#comment-commander" class="FooterNav_link Button">Comment commander ?</a>        
+    </li>
+
+    
+                <li class="FooterNav_item">        <a href="../magasin#livraison" class="FooterNav_link Button">Livraison</a>        
+    </li>
+
+    
+                <li class="FooterNav_item">        <a href="../formulaire-de-retractation" class="FooterNav_link Button">Formulaire de rétractation</a>        
+    </li>
+
+    
+                <li class="FooterNav_item">        <a href="mentions-legales" class="FooterNav_link Button">Mentions légales</a>        
+    </li>
+
+    
+                <li class="FooterNav_item">        <a href="conditions-generales-de-vente" class="FooterNav_link Button">Conditions générales de vente</a>        
+    </li>
+
+    
+                <li class="FooterNav_item">        <a href="politique-vie-privee-et-cookies" class="FooterNav_link Button">Politique Vie privée et cookies</a>        
+    </li>
+
+    
+                <li class="FooterNav_item last">        <a href="../plan-du-site" class="FooterNav_link Button">Plan du site</a>        
+    </li>
+
+
+    </ul>
+
+
+    <div class="FooterLast">
+        <div class="FooterLast_payment">
+            
+
+    
+<div class="SecuredPayment SecuredPayment-min">
+    <i class="Icon Icon-lockWhite"></i>
+    <span style="color: white">
+        Paiement sécurisé
+    </span>
+</div>
+        </div>
+
+        <a href="https://www.weboucherie.fr/" target="_blank" class="FooterLast_logo js-ga-event-send" data-event-type="click" data-action-type="event" data-domain="Sites-BCT" data-element-type="clic-liens-sortants-site-portail" data-element="clic-LS-site-portail-http://weboucherie.fr"></a>
+
+        <p class="FooterLast_mangerBouger">
+            POUR VOTRE SANTÉ, évitez de manger trop gras, trop sucré, trop salé<br>
+            <a target="_blank" class="FooterLast_mangerBougerLink Button" href="http://www.mangerbouger.fr">www.mangerbouger.fr</a>
+        </p>
+
+        <p class="FooterLast_copyright">2017 - Tous droits réservés</p>
+    </div>
+</footer>
+
+            <script src="../assets/shop/js/layout-1.js?v=1.11.2"></script>
+        </body>
+    </html>

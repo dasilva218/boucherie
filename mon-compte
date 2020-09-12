@@ -1,0 +1,462 @@
+    <!DOCTYPE html>
+    <html lang="fr-FR">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
+
+                    <link rel="stylesheet" href="assets/shop/css/layout-1/theme-2.css?v=1.11.2"/>
+        
+        <link rel="canonical" href="formulaire-de-retractation"/>
+
+                
+            
+<title>S'identifier | Maison Moraud</title>
+<meta name="description" content="Votre artisan boucher de la boucherie Maison Moraud à Lyon vous propose d'acheter en ligne ses produits : viande, charcuterie, produits traiteurs. C'est simple et rapide; Surtout, nos produits sont de qualités." />
+
+    <!-- Schema.org markup for Google+ -->
+    <meta itemprop="name" content="S'identifier | Maison Moraud">
+    <meta itemprop="description" content="Votre artisan boucher de la boucherie Maison Moraud à Lyon vous propose d'acheter en ligne ses produits : viande, charcuterie, produits traiteurs. C'est simple et rapide; Surtout, nos produits sont de qualités.">
+    <meta itemprop="image" content="https://maisonmoraud-lyon7.weboucherie.fr/uploads/shop/shop/4/5db1616a36e90.jpg">
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:title" content="S'identifier | Maison Moraud">
+    <meta name="twitter:description" content="Votre artisan boucher de la boucherie Maison Moraud à Lyon vous propose d'acheter en ligne ses produits : viande, charcuterie, produits traiteurs. C'est simple et rapide; Surtout, nos produits sont de qualités.">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="Maison Moraud">
+    <meta name="twitter:image:src" content="https://maisonmoraud-lyon7.weboucherie.fr/uploads/shop/shop/4/5db1616a36e90.jpg">
+
+    <!-- Open Graph data -->
+    <meta property="og:title" content="S'identifier | Maison Moraud" />
+    <meta property="og:description" content="Votre artisan boucher de la boucherie Maison Moraud à Lyon vous propose d'acheter en ligne ses produits : viande, charcuterie, produits traiteurs. C'est simple et rapide; Surtout, nos produits sont de qualités." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://maisonmoraud-lyon7.weboucherie.fr/login" />
+    <meta property="og:image" content="https://maisonmoraud-lyon7.weboucherie.fr/uploads/shop/shop/4/5db1616a36e90.jpg" />
+    <meta property="og:site_name" content="Maison Moraud" />
+
+
+        
+
+                    <script>
+                (function (i, s, o, g, r, a, m) {
+                    i['GoogleAnalyticsObject'] = r;
+                    i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date();
+                    a = s.createElement(o),
+                        m = s.getElementsByTagName(o)[0];
+                    a.async = 1;
+                    a.src = g;
+                    m.parentNode.insertBefore(a, m)
+                })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+                ga('create', 'UA-92531684-1', 'weboucherie.fr');
+                ga('require', 'displayfeatures');
+                ga('set', 'anonymizeIp', true);
+                ga('send', 'pageview');
+                ga('create', 'UA-92532465-1', 'weboucherie.fr', {'name': 'ProprieteBO'});
+                ga('ProprieteBO.require', 'displayfeatures');
+                ga('ProprieteBO.send', 'pageview');
+            </script>
+        
+        
+                <script>
+            !function (f, b, e, v, n, t, s) {
+                if (f.fbq) return;
+                n = f.fbq = function () {
+                    n.callMethod ?
+                        n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+                };
+                if (!f._fbq) f._fbq = n;
+                n.push = n;
+                n.loaded = !0;
+                n.version = '2.0';
+                n.queue = [];
+                t = b.createElement(e);
+                t.async = !0;
+                t.src = v;
+                s = b.getElementsByTagName(e)[0];
+                s.parentNode.insertBefore(t, s)
+            }(window,
+                document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+            fbq('init', '168834733957499');
+            fbq('track', 'PageView');
+        </script>
+        <noscript>
+            <img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=FB_PIXEL_ID&amp;ev=PageView&amp;noscript=1"/></noscript>
+    </head>
+
+    <body>
+    <div class="CookieBar js-cookie-bar">
+    <div class="Wrapper">
+        <p class="CookieBar_text">
+            En poursuivant votre navigation sur ce site, vous acceptez l'installation et l'utilisation de cookies permettant d’améliorer votre expérience utilisateur.
+            <a target="_blank" class="CookieBar_more" href="page/politique-vie-privee-et-cookies">En savoir plus</a>
+            <button class="CookieBar_ok js-cookie-bar-accept" type="button">
+                OK
+            </button>
+        </p>
+    </div>
+</div>
+    
+    
+
+            <header class="Header">
+    <div class="Header_firstLine">
+        <div class="Header_firstTable Wrapper js-mobileHeader">
+                            <div class="Header_mainTitle TextLogo">
+                    <a href="logout?subdomain=maisonmoraud-lyon7" title="Maison Moraud : votre artisan boucher indépendant est sur internet">
+                        <img src="uploads/shop/shop/4/58e4e0734e48e.png" alt="Maison Moraud"/>
+Maison Moraud
+                    </a>
+                </div>
+            
+            <div class="Header_rightMenu ">
+
+                <div class="Header_userControls">
+                    <div class="Header_userControlsContainer">
+                        <a class="Button Header_shopLink" href="magasin">Le magasin</a>
+                        <a class="Button Button-background Button-logOut" href="logout?subdomain=maisonmoraud-lyon7"></a>
+                        <a class="Button Button-background Button-account" href="mon-compte">
+                                                            Connectez-vous
+                                                    </a>
+
+                        <div class="Header_basketContainer js-basket">
+                                                            <a class="Button HeaderBasket_trigger" href="panier">
+    Panier
+    </a>
+
+<div class="HeaderBasket">
+
+            <p class="align-center">
+            Votre panier est vide
+        </p>
+    
+    <div class="Loader"></div>
+</div>
+
+                                                    </div>
+                        <div class="Header_burgerMenu mobile-only js-burgerMenuOpen"><i class="Icon Icon-burgerWhite"></i></div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <nav class="HeaderNav js-burgerMenu">
+        <div class="Nav_closeBurger mobile-only js-burgerMenuClose"><i class="Icon Icon-closeRed"></i></div>
+
+        <div class="Header_firstTable Wrapper">
+                                
+        
+                                                                
+                                    
+        <ul     class="Nav_categories Nav_categories-noSelected">
+                                                                
+                                                            <li     class="Nav_category first">                <a href="categorie/viandes"     class="Nav_link">Viandes</a>                                    
+        
+                                                                        
+                
+        <ul     class="Nav_subCategories menu_level_1">
+                                                                
+                                        <li     class="Nav_subCategory first">                <a href="categorie/viandes/agneau"     class="Nav_subCategoryLink">Agneau</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="categorie/viandes/boeuf"     class="Nav_subCategoryLink">Boeuf</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="categorie/viandes/porc"     class="Nav_subCategoryLink">Porc</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="categorie/viandes/veau"     class="Nav_subCategoryLink">Veau</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="categorie/viandes/plateaux-et-viandes-crues"     class="Nav_subCategoryLink">Plateaux et viandes crues</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="categorie/viandes/nos-viandes-marinees"     class="Nav_subCategoryLink">Nos viandes marinées</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="categorie/viandes/specialites-boucheres-crues"     class="Nav_subCategoryLink">Spécialités Bouchères crues</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory last">                <a href="categorie/viandes/barbecue"     class="Nav_subCategoryLink">Barbecue</a>                            
+        </li>
+    
+                
+        </ul>
+    
+        </li>
+    
+                        
+                                                            <li     class="Nav_category">                <a href="categorie/volailles"     class="Nav_link">Volailles</a>                                    
+        
+                        
+                
+        <ul     class="Nav_subCategories menu_level_1">
+                                                                
+                                        <li     class="Nav_subCategory first">                <a href="categorie/volailles/decoupes-de-volailles"     class="Nav_subCategoryLink">Découpes de volailles</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory last">                <a href="categorie/volailles/volailles-entieres"     class="Nav_subCategoryLink">Volailles entières</a>                            
+        </li>
+    
+                
+        </ul>
+    
+        </li>
+    
+                        
+                                                            <li     class="Nav_category">                <a href="categorie/charcuterie"     class="Nav_link">Charcuterie</a>                                    
+        
+                                                                
+                
+        <ul     class="Nav_subCategories menu_level_1">
+                                                                
+                                        <li     class="Nav_subCategory first">                <a href="categorie/charcuterie/charcuterie-a-la-coupe"     class="Nav_subCategoryLink">Charcuterie à la coupe</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="categorie/charcuterie/jambons"     class="Nav_subCategoryLink">Jambons</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="categorie/charcuterie/saucissons-secs"     class="Nav_subCategoryLink">Saucissons secs</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="categorie/charcuterie/terrines-et-pates-croute"     class="Nav_subCategoryLink">Terrines et pâtés croûte</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="categorie/charcuterie/saucisses-et-boudins"     class="Nav_subCategoryLink">Saucisses et boudins</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="categorie/charcuterie/specialites-lyonnaises"     class="Nav_subCategoryLink">Spécialités Lyonnaises</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory last">                <a href="categorie/charcuterie/charcuterie-diverse"     class="Nav_subCategoryLink">Charcuterie diverse</a>                            
+        </li>
+    
+                
+        </ul>
+    
+        </li>
+    
+                        
+                                                            <li     class="Nav_category">                <a href="categorie/traiteur"     class="Nav_link">Traiteur</a>                                    
+        
+                                                        
+                
+        <ul     class="Nav_subCategories menu_level_1">
+                                                                
+                                        <li     class="Nav_subCategory first">                <a href="categorie/traiteur/aperitif-dinatoire"     class="Nav_subCategoryLink">Apéritif dinatoire</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="categorie/traiteur/entrees"     class="Nav_subCategoryLink">Entrées</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="categorie/traiteur/salades"     class="Nav_subCategoryLink">Salades</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="categorie/traiteur/plats-cuisines"     class="Nav_subCategoryLink">Plats cuisinés</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="categorie/traiteur/accompagnements"     class="Nav_subCategoryLink">Accompagnements</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory last">                <a href="categorie/traiteur/choucroute"     class="Nav_subCategoryLink">Choucroute</a>                            
+        </li>
+    
+                
+        </ul>
+    
+        </li>
+    
+                        
+                                        <li     class="Nav_category">                <a href="categorie/viandes-maturees"     class="Nav_link">Viandes maturées</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_category">                <a href="categorie/nos-colis"     class="Nav_link">Nos Colis</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_category FontHighlighted last">                <a href="categorie/cest-la-rentree"     class="Nav_link">C’EST LA RENTREE !</a>                            
+        </li>
+    
+                
+        </ul>
+    
+            
+<div class="HeaderNav_search">
+    <form method="GET" class="SearchBar js-search-autocomplete" data-url="https://maisonmoraud-lyon7.weboucherie.fr/recherche/auto-completion" action="recherche">
+        <div class="SearchBar_submit">
+            <input class="SearchBar_submitInput" value="" type="submit">
+        </div>
+        <input class="SearchBar_input js-search-input" name="q" type="text" placeholder="" autocomplete="off">
+        <div class="SearchBar_results js-search-results">
+            <div class="SearchBar_results-loading">Chargement des suggestions...</div>
+
+            <ul class="SearchBar_autoCompleteContainer js-search-resultList">
+            </ul>
+        </div>
+    </form>
+</div>
+        </div>
+
+        <div class="Nav_userControls mobile-only ">
+            <a class="Button Header_shopLink" href="magasin">Le magasin</a>
+            <a class="Button Button-background Button-logOut" href="logout?subdomain=maisonmoraud-lyon7"></a>
+            <a class="Button Button-background Button-account" href="mon-compte">
+                                    Connectez-vous
+                            </a>
+        </div>
+    </nav>
+
+    <div class="HeaderNav_search-mobile mobile-only">
+        
+<div class="HeaderNav_search">
+    <form method="GET" class="SearchBar js-search-autocomplete" data-url="https://maisonmoraud-lyon7.weboucherie.fr/recherche/auto-completion" action="recherche">
+        <div class="SearchBar_submit">
+            <input class="SearchBar_submitInput" value="" type="submit">
+        </div>
+        <input class="SearchBar_input js-search-input" name="q" type="text" placeholder="Rechercher" autocomplete="off">
+        <div class="SearchBar_results js-search-results">
+            <div class="SearchBar_results-loading">Chargement des suggestions...</div>
+
+            <ul class="SearchBar_autoCompleteContainer js-search-resultList">
+            </ul>
+        </div>
+    </form>
+</div>
+    </div>
+
+    </header>
+    
+        <div class="HeaderSubContent HeaderSubContent-empty HeaderSubContent-secondary">
+        <div class="Wrapper">
+            
+<div class="Breadcrumb Breadcrumb-only" itemscope itemtype="http://schema.org/BreadcrumbList"><span class="Breadcrumb_element" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><meta itemprop="position" content="1" /><a class="Breadcrumb_list" itemprop="name" href="logout?subdomain=maisonmoraud-lyon7" itemprop="item">Maison Moraud</a></span><span class="Breadcrumb_element" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><meta itemprop="position" content="2" /><span class="Breadcrumb_list" itemprop="name">Identification</span></span></div>
+        </div>
+    </div>
+
+    <div class="UserAccount">
+    <div class="Wrapper">
+        <div class="align-center">
+            <h1 class="Title Title-bigger">Connectez-vous</h1>
+            <p class="UserAccount_description">Pas encore de compte ? Inscrivez-vous</p>
+            <a class="Button Button-background Button-secondary Button-padding Button-large" href="inscription">
+                Créer un compte
+            </a>
+        </div>
+        <hr class="UserAccount_separator" />
+        <form class="Form Form-style1 UserAccount_form" action="https://maisonmoraud-lyon7.weboucherie.fr/login_check" method="post">
+            
+            <div class="Form_row">
+                <div class="Form_widget">
+                    <input type="text" id="email" name="_email" placeholder="E-mail" value="" />
+                </div>
+            </div>
+            <div class="Form_row">
+                <div class="Form_widget">
+                    <input type="password" id="password" placeholder="Mot de passe" name="_password" />
+                </div>
+            </div>
+            <div class="Form_row">
+                <div class="Form_widget">
+                    <div class="Checkbox">
+                        <input type="checkbox" id="remember_me" name="_remember_me" checked />
+                        <label class="Form_label" for="remember_me">Je souhaite rester connecté</label>
+                    </div>
+                </div>
+            </div>
+
+            <input type="hidden" name="_csrf_token" value="oQZxKxWfGOYRWExAHpSv7Q3JaZErWvOh0cPjo0UWKL8" />
+
+            <div class="Form_actions align-center">
+                <button class="Button Button-background Button-padding Button-fullWidth" type="submit">
+                    Se connecter
+                </button>
+                <a href="request">mot de passe oublié ?</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+    <footer>
+            <ul class="FooterNav Wrapper">
+            
+                <li class="FooterNav_item first">        <a href="magasin#comment-commander" class="FooterNav_link Button">Comment commander ?</a>        
+    </li>
+
+    
+                <li class="FooterNav_item">        <a href="magasin#livraison" class="FooterNav_link Button">Livraison</a>        
+    </li>
+
+    
+                <li class="FooterNav_item">        <a href="formulaire-de-retractation" class="FooterNav_link Button">Formulaire de rétractation</a>        
+    </li>
+
+    
+                <li class="FooterNav_item">        <a href="page/mentions-legales" class="FooterNav_link Button">Mentions légales</a>        
+    </li>
+
+    
+                <li class="FooterNav_item">        <a href="page/conditions-generales-de-vente" class="FooterNav_link Button">Conditions générales de vente</a>        
+    </li>
+
+    
+                <li class="FooterNav_item">        <a href="page/politique-vie-privee-et-cookies" class="FooterNav_link Button">Politique Vie privée et cookies</a>        
+    </li>
+
+    
+                <li class="FooterNav_item last">        <a href="plan-du-site" class="FooterNav_link Button">Plan du site</a>        
+    </li>
+
+
+    </ul>
+
+
+    <div class="FooterLast">
+        <div class="FooterLast_payment">
+            
+
+    
+<div class="SecuredPayment SecuredPayment-min">
+    <i class="Icon Icon-lockWhite"></i>
+    <span style="color: white">
+        Paiement sécurisé
+    </span>
+</div>
+        </div>
+
+        <a href="https://www.weboucherie.fr/" target="_blank" class="FooterLast_logo js-ga-event-send" data-event-type="click" data-action-type="event" data-domain="Sites-BCT" data-element-type="clic-liens-sortants-site-portail" data-element="clic-LS-site-portail-http://weboucherie.fr"></a>
+
+        <p class="FooterLast_mangerBouger">
+            POUR VOTRE SANTÉ, évitez de manger trop gras, trop sucré, trop salé<br>
+            <a target="_blank" class="FooterLast_mangerBougerLink Button" href="http://www.mangerbouger.fr">www.mangerbouger.fr</a>
+        </p>
+
+        <p class="FooterLast_copyright">2017 - Tous droits réservés</p>
+    </div>
+</footer>
+
+            <script src="assets/shop/js/layout-1.js?v=1.11.2"></script>
+        </body>
+    </html>

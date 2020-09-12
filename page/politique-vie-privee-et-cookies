@@ -1,0 +1,601 @@
+    <!DOCTYPE html>
+    <html lang="fr-FR">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
+
+                    <link rel="stylesheet" href="../assets/shop/css/layout-1/theme-2.css?v=1.11.2"/>
+        
+        <link rel="canonical" href="politique-vie-privee-et-cookies"/>
+
+                
+            
+<title>Politique Vie privée et cookies | Maison Moraud</title>
+<meta name="description" content="Votre artisan boucher de la boucherie Maison Moraud à Lyon vous propose d'acheter en ligne ses produits : viande, charcuterie, produits traiteurs. C'est simple et rapide; Surtout, nos produits sont de qualités." />
+
+    <!-- Schema.org markup for Google+ -->
+    <meta itemprop="name" content="Politique Vie privée et cookies | Maison Moraud">
+    <meta itemprop="description" content="Votre artisan boucher de la boucherie Maison Moraud à Lyon vous propose d'acheter en ligne ses produits : viande, charcuterie, produits traiteurs. C'est simple et rapide; Surtout, nos produits sont de qualités.">
+    <meta itemprop="image" content="https://maisonmoraud-lyon7.weboucherie.fr/uploads/shop/shop/4/5db1616a36e90.jpg">
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:title" content="Politique Vie privée et cookies | Maison Moraud">
+    <meta name="twitter:description" content="Votre artisan boucher de la boucherie Maison Moraud à Lyon vous propose d'acheter en ligne ses produits : viande, charcuterie, produits traiteurs. C'est simple et rapide; Surtout, nos produits sont de qualités.">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="Maison Moraud">
+    <meta name="twitter:image:src" content="https://maisonmoraud-lyon7.weboucherie.fr/uploads/shop/shop/4/5db1616a36e90.jpg">
+
+    <!-- Open Graph data -->
+    <meta property="og:title" content="Politique Vie privée et cookies | Maison Moraud" />
+    <meta property="og:description" content="Votre artisan boucher de la boucherie Maison Moraud à Lyon vous propose d'acheter en ligne ses produits : viande, charcuterie, produits traiteurs. C'est simple et rapide; Surtout, nos produits sont de qualités." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://maisonmoraud-lyon7.weboucherie.fr/page/politique-vie-privee-et-cookies" />
+    <meta property="og:image" content="https://maisonmoraud-lyon7.weboucherie.fr/uploads/shop/shop/4/5db1616a36e90.jpg" />
+    <meta property="og:site_name" content="Maison Moraud" />
+
+
+        
+
+                    <script>
+                (function (i, s, o, g, r, a, m) {
+                    i['GoogleAnalyticsObject'] = r;
+                    i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date();
+                    a = s.createElement(o),
+                        m = s.getElementsByTagName(o)[0];
+                    a.async = 1;
+                    a.src = g;
+                    m.parentNode.insertBefore(a, m)
+                })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+                ga('create', 'UA-92531684-1', 'weboucherie.fr');
+                ga('require', 'displayfeatures');
+                ga('set', 'anonymizeIp', true);
+                ga('send', 'pageview');
+                ga('create', 'UA-92532465-1', 'weboucherie.fr', {'name': 'ProprieteBO'});
+                ga('ProprieteBO.require', 'displayfeatures');
+                ga('ProprieteBO.send', 'pageview');
+            </script>
+        
+        
+                <script>
+            !function (f, b, e, v, n, t, s) {
+                if (f.fbq) return;
+                n = f.fbq = function () {
+                    n.callMethod ?
+                        n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+                };
+                if (!f._fbq) f._fbq = n;
+                n.push = n;
+                n.loaded = !0;
+                n.version = '2.0';
+                n.queue = [];
+                t = b.createElement(e);
+                t.async = !0;
+                t.src = v;
+                s = b.getElementsByTagName(e)[0];
+                s.parentNode.insertBefore(t, s)
+            }(window,
+                document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+            fbq('init', '168834733957499');
+            fbq('track', 'PageView');
+        </script>
+        <noscript>
+            <img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=FB_PIXEL_ID&amp;ev=PageView&amp;noscript=1"/></noscript>
+    </head>
+
+    <body>
+    <div class="CookieBar js-cookie-bar">
+    <div class="Wrapper">
+        <p class="CookieBar_text">
+            En poursuivant votre navigation sur ce site, vous acceptez l'installation et l'utilisation de cookies permettant d’améliorer votre expérience utilisateur.
+            <a target="_blank" class="CookieBar_more" href="politique-vie-privee-et-cookies">En savoir plus</a>
+            <button class="CookieBar_ok js-cookie-bar-accept" type="button">
+                OK
+            </button>
+        </p>
+    </div>
+</div>
+    
+    
+
+            <header class="Header">
+    <div class="Header_firstLine">
+        <div class="Header_firstTable Wrapper js-mobileHeader">
+                            <div class="Header_mainTitle TextLogo">
+                    <a href="../logout?subdomain=maisonmoraud-lyon7" title="Maison Moraud : votre artisan boucher indépendant est sur internet">
+                        <img src="../uploads/shop/shop/4/58e4e0734e48e.png" alt="Maison Moraud"/>
+Maison Moraud
+                    </a>
+                </div>
+            
+            <div class="Header_rightMenu ">
+
+                <div class="Header_userControls">
+                    <div class="Header_userControlsContainer">
+                        <a class="Button Header_shopLink" href="../magasin">Le magasin</a>
+                        <a class="Button Button-background Button-logOut" href="../logout?subdomain=maisonmoraud-lyon7"></a>
+                        <a class="Button Button-background Button-account" href="../mon-compte">
+                                                            Connectez-vous
+                                                    </a>
+
+                        <div class="Header_basketContainer js-basket">
+                                                            <a class="Button HeaderBasket_trigger" href="../panier">
+    Panier
+    </a>
+
+<div class="HeaderBasket">
+
+            <p class="align-center">
+            Votre panier est vide
+        </p>
+    
+    <div class="Loader"></div>
+</div>
+
+                                                    </div>
+                        <div class="Header_burgerMenu mobile-only js-burgerMenuOpen"><i class="Icon Icon-burgerWhite"></i></div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <nav class="HeaderNav js-burgerMenu">
+        <div class="Nav_closeBurger mobile-only js-burgerMenuClose"><i class="Icon Icon-closeRed"></i></div>
+
+        <div class="Header_firstTable Wrapper">
+                                
+        
+                                                                
+                                    
+        <ul     class="Nav_categories Nav_categories-noSelected">
+                                                                
+                                                            <li     class="Nav_category first">                <a href="../categorie/viandes"     class="Nav_link">Viandes</a>                                    
+        
+                                                                        
+                
+        <ul     class="Nav_subCategories menu_level_1">
+                                                                
+                                        <li     class="Nav_subCategory first">                <a href="../categorie/viandes/agneau"     class="Nav_subCategoryLink">Agneau</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="../categorie/viandes/boeuf"     class="Nav_subCategoryLink">Boeuf</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="../categorie/viandes/porc"     class="Nav_subCategoryLink">Porc</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="../categorie/viandes/veau"     class="Nav_subCategoryLink">Veau</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="../categorie/viandes/plateaux-et-viandes-crues"     class="Nav_subCategoryLink">Plateaux et viandes crues</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="../categorie/viandes/nos-viandes-marinees"     class="Nav_subCategoryLink">Nos viandes marinées</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="../categorie/viandes/specialites-boucheres-crues"     class="Nav_subCategoryLink">Spécialités Bouchères crues</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory last">                <a href="../categorie/viandes/barbecue"     class="Nav_subCategoryLink">Barbecue</a>                            
+        </li>
+    
+                
+        </ul>
+    
+        </li>
+    
+                        
+                                                            <li     class="Nav_category">                <a href="../categorie/volailles"     class="Nav_link">Volailles</a>                                    
+        
+                        
+                
+        <ul     class="Nav_subCategories menu_level_1">
+                                                                
+                                        <li     class="Nav_subCategory first">                <a href="../categorie/volailles/decoupes-de-volailles"     class="Nav_subCategoryLink">Découpes de volailles</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory last">                <a href="../categorie/volailles/volailles-entieres"     class="Nav_subCategoryLink">Volailles entières</a>                            
+        </li>
+    
+                
+        </ul>
+    
+        </li>
+    
+                        
+                                                            <li     class="Nav_category">                <a href="../categorie/charcuterie"     class="Nav_link">Charcuterie</a>                                    
+        
+                                                                
+                
+        <ul     class="Nav_subCategories menu_level_1">
+                                                                
+                                        <li     class="Nav_subCategory first">                <a href="../categorie/charcuterie/charcuterie-a-la-coupe"     class="Nav_subCategoryLink">Charcuterie à la coupe</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="../categorie/charcuterie/jambons"     class="Nav_subCategoryLink">Jambons</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="../categorie/charcuterie/saucissons-secs"     class="Nav_subCategoryLink">Saucissons secs</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="../categorie/charcuterie/terrines-et-pates-croute"     class="Nav_subCategoryLink">Terrines et pâtés croûte</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="../categorie/charcuterie/saucisses-et-boudins"     class="Nav_subCategoryLink">Saucisses et boudins</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="../categorie/charcuterie/specialites-lyonnaises"     class="Nav_subCategoryLink">Spécialités Lyonnaises</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory last">                <a href="../categorie/charcuterie/charcuterie-diverse"     class="Nav_subCategoryLink">Charcuterie diverse</a>                            
+        </li>
+    
+                
+        </ul>
+    
+        </li>
+    
+                        
+                                                            <li     class="Nav_category">                <a href="../categorie/traiteur"     class="Nav_link">Traiteur</a>                                    
+        
+                                                        
+                
+        <ul     class="Nav_subCategories menu_level_1">
+                                                                
+                                        <li     class="Nav_subCategory first">                <a href="../categorie/traiteur/aperitif-dinatoire"     class="Nav_subCategoryLink">Apéritif dinatoire</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="../categorie/traiteur/entrees"     class="Nav_subCategoryLink">Entrées</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="../categorie/traiteur/salades"     class="Nav_subCategoryLink">Salades</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="../categorie/traiteur/plats-cuisines"     class="Nav_subCategoryLink">Plats cuisinés</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory">                <a href="../categorie/traiteur/accompagnements"     class="Nav_subCategoryLink">Accompagnements</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_subCategory last">                <a href="../categorie/traiteur/choucroute"     class="Nav_subCategoryLink">Choucroute</a>                            
+        </li>
+    
+                
+        </ul>
+    
+        </li>
+    
+                        
+                                        <li     class="Nav_category">                <a href="../categorie/viandes-maturees"     class="Nav_link">Viandes maturées</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_category">                <a href="../categorie/nos-colis"     class="Nav_link">Nos Colis</a>                            
+        </li>
+    
+                        
+                                        <li     class="Nav_category FontHighlighted last">                <a href="../categorie/cest-la-rentree"     class="Nav_link">C’EST LA RENTREE !</a>                            
+        </li>
+    
+                
+        </ul>
+    
+            
+<div class="HeaderNav_search">
+    <form method="GET" class="SearchBar js-search-autocomplete" data-url="https://maisonmoraud-lyon7.weboucherie.fr/recherche/auto-completion" action="../recherche">
+        <div class="SearchBar_submit">
+            <input class="SearchBar_submitInput" value="" type="submit">
+        </div>
+        <input class="SearchBar_input js-search-input" name="q" type="text" placeholder="" autocomplete="off">
+        <div class="SearchBar_results js-search-results">
+            <div class="SearchBar_results-loading">Chargement des suggestions...</div>
+
+            <ul class="SearchBar_autoCompleteContainer js-search-resultList">
+            </ul>
+        </div>
+    </form>
+</div>
+        </div>
+
+        <div class="Nav_userControls mobile-only ">
+            <a class="Button Header_shopLink" href="../magasin">Le magasin</a>
+            <a class="Button Button-background Button-logOut" href="../logout?subdomain=maisonmoraud-lyon7"></a>
+            <a class="Button Button-background Button-account" href="../mon-compte">
+                                    Connectez-vous
+                            </a>
+        </div>
+    </nav>
+
+    <div class="HeaderNav_search-mobile mobile-only">
+        
+<div class="HeaderNav_search">
+    <form method="GET" class="SearchBar js-search-autocomplete" data-url="https://maisonmoraud-lyon7.weboucherie.fr/recherche/auto-completion" action="../recherche">
+        <div class="SearchBar_submit">
+            <input class="SearchBar_submitInput" value="" type="submit">
+        </div>
+        <input class="SearchBar_input js-search-input" name="q" type="text" placeholder="Rechercher" autocomplete="off">
+        <div class="SearchBar_results js-search-results">
+            <div class="SearchBar_results-loading">Chargement des suggestions...</div>
+
+            <ul class="SearchBar_autoCompleteContainer js-search-resultList">
+            </ul>
+        </div>
+    </form>
+</div>
+    </div>
+
+    </header>
+    
+        <div class="HeaderSubContent HeaderSubContent-empty HeaderSubContent-secondary">
+        <div class="Wrapper">
+            
+<div class="Breadcrumb Breadcrumb-only" itemscope itemtype="http://schema.org/BreadcrumbList"><span class="Breadcrumb_element" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><meta itemprop="position" content="1" /><a class="Breadcrumb_list" itemprop="name" href="../logout?subdomain=maisonmoraud-lyon7" itemprop="item">Maison Moraud</a></span><span class="Breadcrumb_element" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><meta itemprop="position" content="2" /><span class="Breadcrumb_list" itemprop="name">Politique Vie privée et cookies</span></span></div>
+        </div>
+    </div>
+
+    <div class="Retractation">
+        <div class="Wrapper Wrapper-small">
+            <h1 class="Title Title-bigger Title-marginSub">
+                Politique Vie privée et cookies
+                <span class="Title Title-block Title-small Title-marginSub FontHighlighted FontUppercase">de la boucherie Maison Moraud à Lyon</span>
+            </h1>
+
+            <div class="Page_content CustomContent CustomContent-cgu">
+                <p>Dans le cadre de ses activités, la société &laquo;&nbsp;Boucherie de la Place&nbsp;&raquo; met à disposition de ses clients un service de e-commerce accessible depuis le site internet&nbsp;<a href="../logout?subdomain=maisonmoraud-lyon7"><u>https://maisonmoraud-lyon7.weboucherie.fr</u></a>&nbsp;(ci-après &laquo;&nbsp;<em>le Site</em>&nbsp;&raquo;).</p>
+
+<p>Cette rubrique a pour objet de vous dispenser une information complète sur les modalités de traitement et d&rsquo;utilisation de vos données à caractère personnel collectées depuis le Site, ainsi que de vos droits en matière de protection des données à caractère personnel.</p>
+
+<p>La société &laquo;&nbsp;Boucherie de la Place&nbsp;&raquo;, en tant que responsable du traitement, s&rsquo;engage à respecter les dispositions en vigueur relatives à la protection des données à caractère personnel, notamment le Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des données personnelles (ci-après &laquo;<em>&nbsp;RGPD</em>&nbsp;&raquo;), la loi 78-17 du 6 janvier 1978 relative à l&rsquo;informatique, aux fichiers et aux libertés dite &laquo;&nbsp;<em>Informatique et libertés</em>&nbsp;&raquo;, modifiée par la loi n&deg;2018-493 du 20 juin 2018 relative à la protection des données personnelles (ci-après ensemble &laquo;&nbsp;<em>la Règlementation sur les Données Personnelles&nbsp;</em>&raquo;).</p>
+
+<p><strong><u>1-Identité du responsable du traitement</u></strong></p>
+
+<p>La société &laquo;&nbsp;Boucherie de la Place&nbsp;&raquo;, dont le siège social est situé au 22, rue de la Madeleine &ndash; 69007 LYON&nbsp;traite des données à caractère personnel vous concernant en tant que responsable du traitement dans le cadre de l&rsquo;utilisation de son site internet e-commerce accessible à l&rsquo;adresse suivante&nbsp;:&nbsp;<a href="../logout?subdomain=maisonmoraud-lyon7"><u>https://maisonmoraud-lyon7.weboucherie.fr </u></a>(&laquo;&nbsp;<em>le Site</em>&nbsp;&raquo;).</p>
+
+<p><strong><u>2-Finalités et bases juridiques des traitements de vos données à caractère personnel</u></strong></p>
+
+<p>Selon les cas, la société &laquo; Boucherie de la Place&nbsp;&raquo; traite vos données à caractère personnel en tout ou partie pour les finalités suivantes&nbsp;:</p>
+
+<p><strong>-création et gestion du compte client, du panier d&rsquo;achat et des commandes</strong></p>
+
+<p><u>Base juridique de ce traitement</u>&nbsp;: l&rsquo;exécution du contrat vous liant à la société &laquo;&nbsp;Boucherie de la Place&nbsp;&raquo; (article 6.1-b du RGPD)</p>
+
+<p><strong>-gestion des opérations de paiement</strong></p>
+
+<p><u>Base juridique de ce traitement</u>&nbsp;: l&rsquo;exécution du contrat vous liant à&nbsp;la société &laquo;&nbsp;Boucherie de la Place&nbsp;&raquo; (article 6.1-b du RGPD)</p>
+
+<p><strong>-gestion des opération de retrait ou de livraison de la commande</strong></p>
+
+<p><u>Base juridique de ce traitement</u>&nbsp;: l&rsquo;exécution du contrat vous liant à la société &laquo;&nbsp;Boucherie de la Place&nbsp;&raquo; (article 6.1-b du RGPD)</p>
+
+<p><strong>-suivi de la relation client incluant notamment la gestion des réclamations, des remboursements, des gestes commerciaux ainsi que l&rsquo;exercice de votre droit de rétractation</strong></p>
+
+<p><u>Base juridique de ce traitement</u>&nbsp;: l&rsquo;exécution du contrat vous liant à la société &laquo;&nbsp;Boucherie de la Place&nbsp;&raquo; (article 6.1-b du RGPD)</p>
+
+<p><strong>-élaboration de statistiques commerciales</strong></p>
+
+<p><u>Base juridique de ce traitement</u>&nbsp;: l&rsquo;intérêt légitime de la société &laquo;&nbsp;Boucherie de la Place&nbsp;&raquo; afin d&rsquo;améliorer la connaissance des clients (article 6.1-f du RGPD)</p>
+
+<p><strong><u>-sous réserve d&rsquo;avoir obtenu votre consentement exprès</u>&nbsp;: envoi d&rsquo;informations sur les produits de la société &laquo;&nbsp;Boucherie de la Place&nbsp;&raquo;&nbsp;(notamment sous forme de newsletters), d&rsquo;offres commerciales et/ou de publicités par e-mail ou par voie postale ; vous devrez pour ce faire cocher la case &laquo;&nbsp;<em>Recevoir des informations de votre boucher</em>&nbsp;&raquo;&nbsp;sur le formulaire de création du compte client</strong></p>
+
+<p><u>Base juridique de ce traitement</u>&nbsp;: votre consentement exprès (article 6.1-a du RGPD)</p>
+
+<p>-<strong><u>sous réserve d&rsquo;avoir obtenu votre consentement exprès</u>&nbsp;: partage d&rsquo;informations avec le partenaire Weboucherie de&nbsp;la société &laquo;&nbsp;Boucherie de la Place&nbsp;&raquo;, la société GRAND SALOIR SAINT NICOLAS ; vous devrez pour ce faire cocher la case &laquo;&nbsp;<em>Recevoir des informations de notre partenaire Weboucherie&nbsp;</em>&raquo;&nbsp;sur le formulaire de création du compte client&nbsp;</strong></p>
+
+<p><u>Base juridique de ce traitement</u>&nbsp;: votre consentement exprès (article 6.1-a du RGPD)</p>
+
+<p><strong>-Lutte contre la fraude lors du paiement de la commande et gestion des impayés après commande</strong></p>
+
+<p><u>Base juridique de ce traitement</u>&nbsp;: l&rsquo;intérêt légitime de la société &laquo;&nbsp;Boucherie de la Place&nbsp;&raquo;&nbsp;à des fins de prévention de la fraude (article 6.1-f du RGPD).</p>
+
+<p>Toutes les données à caractère personnel sont collectées et traitées de manière strictement confidentielle. Elles ne peuvent être utilisées pour une autre fin que celle pour laquelle elles ont été collectées.</p>
+
+<p><strong>Pour les traitements nécessitant le recueil du consentement, vous avez la faculté de retirer votre consentement à tout moment, en vous rendant dans la rubrique de votre compte intitulée &laquo;&nbsp;<em>Gérer mes informations personnelles</em>&nbsp;&raquo; , et cela n&rsquo;aura aucun effet sur la réalisation des autres services fournis par&nbsp;la société &laquo;&nbsp;Boucherie de la Place&nbsp;&raquo;.</strong></p>
+
+<p><strong><u>3-Catégories de données à caractère personnel traitées</u></strong></p>
+
+<p>Dans le cadre de l&rsquo;utilisation du Site (notamment lors de la création de votre compte client ou de la passation d&rsquo;une commande), les données à caractère personnel énumérées ci-après peuvent être collectées&nbsp;:</p>
+
+<p>- les données d&#39;identification et d&#39;adresse (civilité, nom, prénom, numéro de téléphone, adresse postale de livraison, adresse postale de facturation, adresse email, date de naissance, mot de passe, numéro de carte de fidélité) ;</p>
+
+<p>- les données permettant la gestion du compte client et du service client (date et heure de la création du compte client, date d&rsquo;envoi et de la mise à jour de la rétractation client) ;</p>
+
+<p>- les données relatives aux moyens et aux modalités de paiement&nbsp;: informations liées à la carte bancaire pour effectuer le paiement (numéro de carte, date de fin de validité, alias, type, code de banque) ;</p>
+
+<p>- les données relatives à l&#39;approbation ou au refus de prospection commerciale ;</p>
+
+<p>- les données relatives à la navigation internet (cookies, données de navigation, mesure d&#39;audience etc.)&nbsp;;</p>
+
+<p>- adresse IP, date et heure de connexion.</p>
+
+<p>Certaines informations demandées pour la création d&rsquo;un compte client, le paiement de la commande en ligne ou l&rsquo;inscription des utilisateurs souhaitant recevoir des informations ou offres commerciales, signalées par un astérisque ou par la mention &laquo; champ requis &raquo;, sont obligatoires pour pouvoir bénéficier de ces services. Si vous choisissez de ne pas les communiquer, la société &laquo;&nbsp;Boucherie de la Place&nbsp;&raquo; ne pourra traiter votre demande.</p>
+
+<p><strong><u>4 - Transmission des données à caractère personnel</u></strong></p>
+
+<p>Les données collectées sur le Site sont destinées à la société&nbsp;&laquo;&nbsp;Boucherie de la Place&nbsp;&raquo; ainsi qu&rsquo;aux catégories de destinataires suivants, selon leur degré d&rsquo;habilitation et la finalité prévue pour le traitement concerné&nbsp;:</p>
+
+<ul>
+	<li>
+	<p>les services habilités des prestataires techniques (au titre de l&rsquo;hébergement et de la maintenance du Site),</p>
+	</li>
+	<li>
+	<p>les services habilités des prestataires logistiques et de transport&nbsp;;</p>
+	</li>
+	<li>
+	<p>les services habilités des prestataires financiers de la&nbsp;société &laquo;&nbsp;Boucherie de la Place&nbsp;&raquo;, incluant notamment la société MANGOPAY&nbsp;;</p>
+	</li>
+	<li>
+	<p>la société GRAND SALOIR SAINT NICOLAS, partenaire Weboucherie de la société&nbsp;&laquo;&nbsp;Boucherie de la Place&nbsp;&raquo;, si vous y avez consenti.</p>
+	</li>
+</ul>
+
+<p>Par ailleurs, les données à caractère personnel pourront être communiquées à toute autorité légalement habilitée à en connaître.</p>
+
+<p><strong><u>5-Durée de conservation des données</u></strong></p>
+
+<p>La société&nbsp;&laquo;&nbsp;Boucherie de la Place&nbsp;&raquo; ne conserve les données personnelles que pour la durée nécessaire aux opérations pour lesquelles elles ont été collectées ainsi que dans le respect de la législation en vigueur.</p>
+
+<p><strong><u>6-Vos droits</u></strong></p>
+
+<p>Conformément à la Réglementation sur les Données Personnelles, vous bénéficiez à tout moment d&rsquo;un droit d&rsquo;accès, d&rsquo;interrogation, de portabilité, de rectification et d&rsquo;effacement des données à caractère personnel vous concernant.</p>
+
+<p>Vous disposez d&rsquo;un droit d&rsquo;opposition au traitement desdites données pour des motifs légitimes.</p>
+
+<p>Vous disposez également du droit selon les cas à ce que vos données soient rectifiées, complétées, mises à jour, verrouillées ou effacées lorsqu&rsquo;elles sont inexactes, incomplètes, équivoques, périmées, ou dont la collecte, l&rsquo;utilisation, la communication ou la conservation est interdite.</p>
+
+<p>Vous disposez enfin du droit de définir des directives générales et particulières définissant la manière dont vous entendez que soient exercés, après votre décès, ces droits.</p>
+
+<p>Vous pouvez exercer vos droits, dans les conditions énoncées par la Réglementation sur les Données Personnelles mentionnée ci-dessus&nbsp;:</p>
+
+<p>soit par courrier adressé à la société &laquo;&nbsp;Boucherie de la Place&nbsp;&raquo;, 22, rue de la Madeleine &ndash; 69007 LYON,</p>
+
+<p>soit par e-mail envoyé à gestion.boucheriemoraud@gmail.com</p>
+
+<p>Dans un souci de protection des données à caractère personnel, la société &laquo;&nbsp;Boucherie de la Place&nbsp;&raquo; doit s&rsquo;assurer de l&rsquo;identité de l&lsquo;utilisateur avant de répondre à sa demande. A ce titre, la société &laquo;&nbsp;Boucherie de la Place&nbsp;&raquo; se réserve la possibilité de vous demander un justificatif d&rsquo;identité.</p>
+
+<p><strong>Vous pouvez à tout moment porter réclamation devant l&rsquo;autorité de contrôle compétente (en France, la CNIL&nbsp;:&nbsp;<a href="http://www.cnil.fr/">www.cnil.fr</a>).</strong></p>
+
+<p><strong><u>7-Sécurité</u></strong></p>
+
+<p>La société &laquo;&nbsp;Boucherie de la Place&nbsp;&raquo; s&rsquo;engage à prendre les mesures appropriées pour préserver la sécurité des données à caractère personnel et, notamment, empêcher qu&#39;elles soient déformées, endommagées, ou que des tiers non autorisés y aient accès.</p>
+
+<p>Afin d&#39;assurer la sécurité des paiements, la société &laquo;&nbsp;Boucherie de la Place&nbsp;&raquo; utilise le service de paiement sécurisé d&rsquo;un prestataire : la société MANGOPAY. Vos informations bancaires (numéro de carte bancaire, date de validité) sont cryptées par le système de paiement MANGOPAY. Elles sont inaccessibles par des tiers.</p>
+
+<p><strong><u>8-Cookies</u></strong></p>
+
+<p>Lors de vos visites sur le Site, un ou plusieurs cookies peuvent s&rsquo;installer automatiquement sur votre logiciel de navigation.</p>
+
+<p><strong>Définition d&rsquo;un cookie</strong></p>
+
+<p>Un &laquo;&nbsp;cookie&nbsp;&raquo; est un fichier texte susceptible d&rsquo;être déposé sur le terminal de l&rsquo;utilisateur (ordinateur, tablette ou appareil mobile) à l&rsquo;occasion de sa visite du Site. Le cookie permet à un site internet de collecter et d&rsquo;enregistrer des informations relatives à la navigation de l&rsquo;utilisateur. Seul l&#39;émetteur d&#39;un cookie est susceptible de lire ou de modifier des informations qui y sont contenues.</p>
+
+<p><strong>Finalité des cookies utilisés par la société &laquo;&nbsp;Boucherie de la Place&nbsp;&raquo;&nbsp;sur le Site</strong></p>
+
+<p>Les cookies émis par la société &laquo;&nbsp;Boucherie de la Place&nbsp;&raquo; sont utilisés dans le but de&nbsp;:</p>
+
+<p>-établir des statistiques de fréquentation et d&#39;utilisation des divers éléments composant le Site (rubriques et contenus visités, parcours, etc.)&nbsp;;</p>
+
+<p>-effectuer des diagnostics pour améliorer le contenu et l&rsquo;ergonomie du Site.</p>
+
+<p><strong>Paramétrer votre navigateur Internet</strong></p>
+
+<p>Le paramétrage du logiciel de navigation permet d&rsquo;informer de la présence d&rsquo;un ou plusieurs cookies et éventuellement, de les refuser.</p>
+
+<p>Vous pouvez activer ou désactiver à tout moment l&rsquo;utilisation de cookies en sélectionnant les paramètres appropriés de votre logiciel de navigation.</p>
+
+<p>Généralement, ces paramètres se retrouvent dans les onglets &laquo; outils &raquo; ou &laquo; paramètres &raquo;.</p>
+
+<p>Il n&rsquo;est pas possible d&rsquo;assurer une information détaillée et à jour de ces éléments de paramétrage, qui sont sous le seul contrôle exclusif et l&rsquo;autorité des éditeurs des logiciels de navigation.</p>
+
+<p>Vous trouverez plus d&rsquo;informations sur la marche à suivre&nbsp;:</p>
+
+<ul>
+	<li>
+	<p>auprès des éditeurs des logiciels de navigation sur leur site internet ;</p>
+	</li>
+</ul>
+
+<ul>
+	<li>
+	<p>et/ou de manière plus générale, sur le site de la CNIL à l&rsquo;adresse www.cnil.fr en utilisant le mot clé &laquo; cookies &raquo; dans les moteurs de recherche, ou en cliquant sur le lien suivant : https://www.cnil.fr/fr/cookies-les-outils-pour-les-maitriser. La CNIL met notamment à la disposition des internautes un outil de visualisation identifiant en temps réel les cookies qui transmettent des informations vous concernant à d&#39;autres sites. Ce logiciel est téléchargeable ici : &nbsp;<a href="http://www.cnil.fr/vos-droits/vos-traces/les-cookies/telechargez-cookieviz/">http://www.cnil.fr/vos-droits/vos-traces/les-cookies/telechargez-cookieviz/</a>.</p>
+	</li>
+</ul>
+
+<p>Si vous avez accepté dans votre logiciel de navigation l&rsquo;enregistrement de cookies dans son terminal, les cookies intégrés dans les pages et contenus consultés par ce dernier pourront être stockés temporairement dans un espace dédié de son terminal. Ils y seront lisibles uniquement par leur émetteur.</p>
+
+<p>La désactivation de certains cookies peut empêcher l&rsquo;utilisation de certaines fonctionnalités du Site.</p>
+
+<p>Le cas échéant, la société &laquo;&nbsp;Boucherie de la Place&nbsp;&raquo; décline toute responsabilité pour toutes conséquences liées au fonctionnement dégradé des services du Site résultant de l&#39;impossibilité d&#39;enregistrement ou de consultation des cookies nécessaires à leur fonctionnement et qui auraient été refusés ou supprimés par l&rsquo;utilisateur.</p>
+
+<p><strong><u>9-Mise à jour de la politique vie privée et cookies</u></strong></p>
+
+<p>Notre politique est susceptible d&rsquo;être modifiée ou mise à jour à tout moment.</p>
+
+<p><strong>Dernière mise à jour&nbsp;: 24/10/2018</strong>​​​​​​​</p>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+            <ul class="FooterNav Wrapper">
+            
+                <li class="FooterNav_item first">        <a href="../magasin#comment-commander" class="FooterNav_link Button">Comment commander ?</a>        
+    </li>
+
+    
+                <li class="FooterNav_item">        <a href="../magasin#livraison" class="FooterNav_link Button">Livraison</a>        
+    </li>
+
+    
+                <li class="FooterNav_item">        <a href="../formulaire-de-retractation" class="FooterNav_link Button">Formulaire de rétractation</a>        
+    </li>
+
+    
+                <li class="FooterNav_item">        <a href="mentions-legales" class="FooterNav_link Button">Mentions légales</a>        
+    </li>
+
+    
+                <li class="FooterNav_item">        <a href="conditions-generales-de-vente" class="FooterNav_link Button">Conditions générales de vente</a>        
+    </li>
+
+    
+                <li class="FooterNav_item">        <a href="politique-vie-privee-et-cookies" class="FooterNav_link Button">Politique Vie privée et cookies</a>        
+    </li>
+
+    
+                <li class="FooterNav_item last">        <a href="../plan-du-site" class="FooterNav_link Button">Plan du site</a>        
+    </li>
+
+
+    </ul>
+
+
+    <div class="FooterLast">
+        <div class="FooterLast_payment">
+            
+
+    
+<div class="SecuredPayment SecuredPayment-min">
+    <i class="Icon Icon-lockWhite"></i>
+    <span style="color: white">
+        Paiement sécurisé
+    </span>
+</div>
+        </div>
+
+        <a href="https://www.weboucherie.fr/" target="_blank" class="FooterLast_logo js-ga-event-send" data-event-type="click" data-action-type="event" data-domain="Sites-BCT" data-element-type="clic-liens-sortants-site-portail" data-element="clic-LS-site-portail-http://weboucherie.fr"></a>
+
+        <p class="FooterLast_mangerBouger">
+            POUR VOTRE SANTÉ, évitez de manger trop gras, trop sucré, trop salé<br>
+            <a target="_blank" class="FooterLast_mangerBougerLink Button" href="http://www.mangerbouger.fr">www.mangerbouger.fr</a>
+        </p>
+
+        <p class="FooterLast_copyright">2017 - Tous droits réservés</p>
+    </div>
+</footer>
+
+            <script src="../assets/shop/js/layout-1.js?v=1.11.2"></script>
+        </body>
+    </html>
